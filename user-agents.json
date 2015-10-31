@@ -3,7 +3,9 @@
     "type": "tablet",
     "platform": {
       "name": "Android",
-      "version": "3.2.1"
+      "version": "3.2.1",
+      "build": "HTK55D",
+      "model": "A100"
     },
     "engine": {
       "name": "Webkit",
@@ -13,14 +15,17 @@
       "name": "Safari",
       "version": "4.0"
     },
-    "build": "HTK55D",
-    "model": "A100"
+    "meta": {
+      "priority": 20
+    }
   },
   "Mozilla/5.0 (Linux; U; Android 4.1; en-us; A110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30": {
     "type": "tablet",
     "platform": {
       "name": "Android",
-      "version": "4.1"
+      "version": "4.1",
+      "build": "JZO54K",
+      "model": "A110"
     },
     "engine": {
       "name": "Webkit",
@@ -29,15 +34,15 @@
     "browser": {
       "name": "Safari",
       "version": "4.0"
-    },
-    "build": "JZO54K",
-    "model": "A110"
+    }
   },
   "Mozilla/5.0 (Linux; U; Android 4.0.3; de-de; A200 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30": {
     "type": "tablet",
     "platform": {
       "name": "Android",
-      "version": "4.0.3"
+      "version": "4.0.3",
+      "build": "IML74K",
+      "model": "A200"
     },
     "engine": {
       "name": "Webkit",
@@ -46,15 +51,15 @@
     "browser": {
       "name": "Safari",
       "version": "4.0"
-    },
-    "build": "IML74K",
-    "model": "A200"
+    }
   },
   "Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; A500 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30": {
     "type": "tablet",
     "platform": {
       "name": "Android",
-      "version": "4.0.3"
+      "version": "4.0.3",
+      "build": "IML74K",
+      "model": "A500"
     },
     "engine": {
       "name": "Webkit",
@@ -63,15 +68,15 @@
     "browser": {
       "name": "Safari",
       "version": "4.0"
-    },
-    "build": "IML74K",
-    "model": "A500"
+    }
   },
   "Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; A501 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30": {
     "type": "tablet",
     "platform": {
       "name": "Android",
-      "version": "4.0.3"
+      "version": "4.0.3",
+      "build": "IML74K",
+      "model": "A501"
     },
     "engine": {
       "name": "Webkit",
@@ -80,15 +85,15 @@
     "browser": {
       "name": "Safari",
       "version": "4.0"
-    },
-    "build": "IML74K",
-    "model": "A501"
+    }
   },
   "Mozilla/5.0 (Linux; Android 4.1.1; A701 Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19": {
     "type": "tablet",
     "platform": {
       "name": "Android",
-      "version": "4.1.1"
+      "version": "4.1.1",
+      "build": "JRO03H",
+      "model": "A701"
     },
     "engine": {
       "name": "Webkit",
@@ -103,15 +108,15 @@
         "name": "Safari",
         "version": "535.19"
       }
-    ],
-    "build": "JRO03H",
-    "model": "A701"
+    ]
   },
   "Mozilla/5.0 (Linux; Android 4.1.2; B1-A71 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19": {
     "type": "tablet",
     "platform": {
       "name": "Android",
-      "version": "4.1.2"
+      "version": "4.1.2",
+      "build": "JZO54K",
+      "model": "B1-A71"
     },
     "engine": {
       "name": "Webkit",
@@ -126,15 +131,15 @@
         "name": "Safari",
         "version": "535.19"
       }
-    ],
-    "build": "JZO54K",
-    "model": "B1-A71"
+    ]
   },
   "Mozilla/5.0 (Linux; Android 4.1.2; B1-710 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36": {
     "type": "tablet",
     "platform": {
       "name": "Android",
-      "version": "4.1.2"
+      "version": "4.1.2",
+      "build": "JZO54K",
+      "model": "B1-710"
     },
     "engine": {
       "name": "Webkit",
@@ -149,9 +154,7 @@
         "name": "Safari",
         "version": "537.36"
       }
-    ],
-    "build": "JZO54K",
-    "model": "B1-710"
+    ]
   },
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.64 Safari/537.36": {
     "type": "desktop",
