@@ -1,29 +1,78 @@
 <?php
 define("HASH_FUNC", "crc32");
-$userAgents = json_decode(file_get_contents("user-agents.json"), true);
+$pathUserAgents = __DIR__ . "/user-agent";
+$types = ["desktop", "tablet"];
+$pathBuild = __DIR__ . "/bin";
+$buildTypes = ["php", "json", "go"];
 $meta = ["meta" => ["hash" => HASH_FUNC]];
 $compiled = array_merge($meta, ["userAgents" => []]);
 $priorities = array_merge($meta, ["userAgents" => [20 => [], 100 => [], "rest" => []]]);
-foreach ($userAgents as $userAgent => $meta) {
-    $compiledUserAgent = hexdec(hash(HASH_FUNC, $userAgent));
-    echo "Loading $userAgent with $compiledUserAgent...", PHP_EOL;
-    if (isset($compiled["userAgents"][intval($compiledUserAgent)])) {
-        throw new \Exception(HASH_FUNC . " collision!");
+
+function loadUserAgentsList($path, array $types) {
+    $userAgents = [];
+    foreach ($types as $type) {
+        $list = file_get_contents(sprintf("%s/%s.json", $path, $type));
+        $userAgent = json_decode($list, true);
+        $userAgents = array_merge($userAgents, $userAgent);
     }
-    $compiled["userAgents"][intval($compiledUserAgent)] = array_merge(["name" => $userAgent], $meta);
-    if (!isset($meta["meta"]["priority"])) {
-        $priority = "rest";
-    } else {
-        $priority = $meta["meta"]["priority"];
+    return $userAgents;
+
+}
+$userAgents = loadUserAgentsList($pathUserAgents, $types);
+
+function compileLists(array $userAgents, array &$compiled, array &$priorities) {
+    foreach ($userAgents as $userAgent => $meta) {
+        $compiledUserAgent = hexdec(hash(HASH_FUNC, $userAgent));
+        echo "Loading $userAgent with $compiledUserAgent...", PHP_EOL;
+        if (isset($compiled["userAgents"][$compiledUserAgent])) {
+            throw new \Exception(HASH_FUNC . " collision!");
+        }
+        $compiled["userAgents"][$compiledUserAgent] = array_merge(["name" => $userAgent], $meta);
+        if (!isset($meta["meta"]["priority"])) {
+            $priority = "rest";
+        } else {
+            $priority = $meta["meta"]["priority"];
+        }
+        $priorities["userAgents"][$priority][$compiledUserAgent] = $compiled["userAgents"][intval($compiledUserAgent)];
     }
-    $priorities["userAgents"][$priority][intval($compiledUserAgent)] = $compiled["userAgents"][intval($compiledUserAgent)];
 }
 
-$json = json_encode($compiled, JSON_NUMERIC_CHECK);
-$jsonPriorities = json_encode($priorities, JSON_NUMERIC_CHECK);
-file_put_contents("compiled-user-agents.json", $json);
-file_put_contents("compiled-priority-user-agents.json", $jsonPriorities);
+compileLists($userAgents, $compiled, $priorities);
 
-$phpFile = sprintf('<?php%sreturn %s;', PHP_EOL, var_export($compiled, true));
-file_put_contents("compiled-user-agents.php", $phpFile);
+function build($pathBuild, $type, $compiled, $priorities) {
+
+    switch ($type) {
+    case "go":
+        $json = json_encode($compiled, JSON_NUMERIC_CHECK);
+        $jsonPriorities = json_encode($priorities, JSON_NUMERIC_CHECK);
+        $goFile = <<<EOA
+package devicedetect
+
+var compiledUserAgents = `%s`
+EOA;
+        $goFile = sprintf($goFile, $json);
+        $goFilePriorities = sprintf($goFile, $jsonPriorities);
+        file_put_contents($pathBuild . "/compiled-user-agents.go", $goFile);
+        file_put_contents($pathBuild . "/compiled-priority-user-agents.go", $goFilePriorities);
+        break;
+    case "json":
+        $json = json_encode($compiled, JSON_NUMERIC_CHECK);
+        $jsonPriorities = json_encode($priorities, JSON_NUMERIC_CHECK);
+        file_put_contents($pathBuild . "/compiled-user-agents.json", $json);
+        file_put_contents($pathBuild . "/compiled-priority-user-agents.json", $jsonPriorities);
+        break;
+    case "php":
+        $phpFile = sprintf('<?php%sreturn %s;', PHP_EOL, var_export($compiled, true));
+        $phpPriorities = sprintf('<?php%sreturn %s;', PHP_EOL, var_export($priorities, true));
+        file_put_contents($pathBuild . "/compiled-user-agents.php", $phpFile);
+        file_put_contents($pathBuild . "/compiled-priority-user-agents.php", $phpPriorities);
+        break;
+
+    }
+
+}
+foreach ($buildTypes as $type) {
+    build($pathBuild, $type, $compiled, $priorities);
+}
+
 echo "Done", PHP_EOL;
