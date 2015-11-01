@@ -6,7 +6,7 @@ return array (
   ),
   'userAgents' => 
   array (
-    2319855637 => 
+    '8a463015' => 
     array (
       'name' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.64 Safari/537.36',
       'type' => 'desktop',
@@ -34,7 +34,7 @@ return array (
         ),
       ),
     ),
-    3930542320 => 
+    'ea4750f0' => 
     array (
       'name' => 'Mozilla/5.0 (Linux; U; Android 3.2.1; en-us; A100 Build/HTK55D) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
       'type' => 'tablet',
@@ -60,7 +60,7 @@ return array (
         'priority' => 20,
       ),
     ),
-    887212861 => 
+    '34e1cb3d' => 
     array (
       'name' => 'Mozilla/5.0 (Linux; U; Android 4.1; en-us; A110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
       'type' => 'tablet',
@@ -82,7 +82,7 @@ return array (
         'version' => '4.0',
       ),
     ),
-    853193641 => 
+    '32dab3a9' => 
     array (
       'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; de-de; A200 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
       'type' => 'tablet',
@@ -104,7 +104,7 @@ return array (
         'version' => '4.0',
       ),
     ),
-    3932341121 => 
+    'ea62c381' => 
     array (
       'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; A500 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
       'type' => 'tablet',
@@ -126,7 +126,7 @@ return array (
         'version' => '4.0',
       ),
     ),
-    4181778320 => 
+    'f940df90' => 
     array (
       'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; A501 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
       'type' => 'tablet',
@@ -148,7 +148,7 @@ return array (
         'version' => '4.0',
       ),
     ),
-    1859720144 => 
+    '6ed913d0' => 
     array (
       'name' => 'Mozilla/5.0 (Linux; Android 4.1.1; A701 Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19',
       'type' => 'tablet',
@@ -178,7 +178,7 @@ return array (
         ),
       ),
     ),
-    2861356740 => 
+    'aa8cd6c4' => 
     array (
       'name' => 'Mozilla/5.0 (Linux; Android 4.1.2; B1-A71 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19',
       'type' => 'tablet',
@@ -208,7 +208,7 @@ return array (
         ),
       ),
     ),
-    1733887920 => 
+    '675907b0' => 
     array (
       'name' => 'Mozilla/5.0 (Linux; Android 4.1.2; B1-710 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36',
       'type' => 'tablet',

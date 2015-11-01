@@ -8,6 +8,11 @@ $meta = ["meta" => ["hash" => HASH_FUNC]];
 $compiled = array_merge($meta, ["userAgents" => []]);
 $priorities = array_merge($meta, ["userAgents" => [20 => [], 100 => [], "rest" => []]]);
 
+/**
+ * @param $path
+ * @param array $types
+ * @return mixed
+ */
 function loadUserAgentsList($path, array $types) {
     $userAgents = [];
     foreach ($types as $type) {
@@ -20,9 +25,14 @@ function loadUserAgentsList($path, array $types) {
 }
 $userAgents = loadUserAgentsList($pathUserAgents, $types);
 
+/**
+ * @param array $userAgents
+ * @param $compiled
+ * @param $priorities
+ */
 function compileLists(array $userAgents, array &$compiled, array &$priorities) {
     foreach ($userAgents as $userAgent => $meta) {
-        $compiledUserAgent = hexdec(hash(HASH_FUNC, $userAgent));
+        $compiledUserAgent = (hash(HASH_FUNC, $userAgent));
         echo "Loading $userAgent with $compiledUserAgent...", PHP_EOL;
         if (isset($compiled["userAgents"][$compiledUserAgent])) {
             throw new \Exception(HASH_FUNC . " collision!");
@@ -33,12 +43,18 @@ function compileLists(array $userAgents, array &$compiled, array &$priorities) {
         } else {
             $priority = $meta["meta"]["priority"];
         }
-        $priorities["userAgents"][$priority][$compiledUserAgent] = $compiled["userAgents"][intval($compiledUserAgent)];
+        $priorities["userAgents"][$priority][$compiledUserAgent] = $compiled["userAgents"][$compiledUserAgent];
     }
 }
 
 compileLists($userAgents, $compiled, $priorities);
 
+/**
+ * @param $pathBuild
+ * @param $type
+ * @param $compiled
+ * @param $priorities
+ */
 function build($pathBuild, $type, $compiled, $priorities) {
 
     switch ($type) {
@@ -52,20 +68,20 @@ var compiledUserAgents = `%s`
 EOA;
         $goFile = sprintf($goFile, $json);
         $goFilePriorities = sprintf($goFile, $jsonPriorities);
-        file_put_contents($pathBuild . "/compiled-user-agents.go", $goFile);
-        file_put_contents($pathBuild . "/compiled-priority-user-agents.go", $goFilePriorities);
+        file_put_contents($pathBuild . "/go/compiled-user-agents.go", $goFile);
+        file_put_contents($pathBuild . "/go/compiled-priority-user-agents.go", $goFilePriorities);
         break;
     case "json":
         $json = json_encode($compiled, JSON_NUMERIC_CHECK);
         $jsonPriorities = json_encode($priorities, JSON_NUMERIC_CHECK);
-        file_put_contents($pathBuild . "/compiled-user-agents.json", $json);
-        file_put_contents($pathBuild . "/compiled-priority-user-agents.json", $jsonPriorities);
+        file_put_contents($pathBuild . "/json/compiled-user-agents.json", $json);
+        file_put_contents($pathBuild . "/json/compiled-priority-user-agents.json", $jsonPriorities);
         break;
     case "php":
         $phpFile = sprintf('<?php%sreturn %s;', PHP_EOL, var_export($compiled, true));
         $phpPriorities = sprintf('<?php%sreturn %s;', PHP_EOL, var_export($priorities, true));
-        file_put_contents($pathBuild . "/compiled-user-agents.php", $phpFile);
-        file_put_contents($pathBuild . "/compiled-priority-user-agents.php", $phpPriorities);
+        file_put_contents($pathBuild . "/php/compiled-user-agents.php", $phpFile);
+        file_put_contents($pathBuild . "/php/compiled-priority-user-agents.php", $phpPriorities);
         break;
 
     }
