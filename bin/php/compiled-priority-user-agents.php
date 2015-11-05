@@ -2,13 +2,13 @@
 return array (
   'meta' => 
   array (
-    'hash' => 'crc32',
+    'hash' => 'crc32b',
   ),
   'userAgents' => 
   array (
     20 => 
     array (
-      'ea4750f0' => 
+      1139972993 => 
       array (
         'name' => 'Mozilla/5.0 (Linux; U; Android 3.2.1; en-us; A100 Build/HTK55D) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
         'type' => 'tablet',
@@ -40,7 +40,7 @@ return array (
     ),
     'rest' => 
     array (
-      '8a463015' => 
+      3056054538 => 
       array (
         'name' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.64 Safari/537.36',
         'type' => 'desktop',
@@ -68,7 +68,7 @@ return array (
           ),
         ),
       ),
-      '34e1cb3d' => 
+      3992831128 => 
       array (
         'name' => 'Mozilla/5.0 (Linux; U; Android 4.1; en-us; A110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
         'type' => 'tablet',
@@ -90,7 +90,7 @@ return array (
           'version' => '4.0',
         ),
       ),
-      '32dab3a9' => 
+      871721029 => 
       array (
         'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; de-de; A200 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
         'type' => 'tablet',
@@ -112,7 +112,7 @@ return array (
           'version' => '4.0',
         ),
       ),
-      'ea62c381' => 
+      2127844752 => 
       array (
         'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; A500 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
         'type' => 'tablet',
@@ -134,7 +134,7 @@ return array (
           'version' => '4.0',
         ),
       ),
-      'f940df90' => 
+      1660145029 => 
       array (
         'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; A501 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
         'type' => 'tablet',
@@ -156,7 +156,7 @@ return array (
           'version' => '4.0',
         ),
       ),
-      '6ed913d0' => 
+      3257900663 => 
       array (
         'name' => 'Mozilla/5.0 (Linux; Android 4.1.1; A701 Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19',
         'type' => 'tablet',
@@ -186,7 +186,7 @@ return array (
           ),
         ),
       ),
-      'aa8cd6c4' => 
+      551820941 => 
       array (
         'name' => 'Mozilla/5.0 (Linux; Android 4.1.2; B1-A71 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19',
         'type' => 'tablet',
@@ -216,7 +216,7 @@ return array (
           ),
         ),
       ),
-      '675907b0' => 
+      3577249240 => 
       array (
         'name' => 'Mozilla/5.0 (Linux; Android 4.1.2; B1-710 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36',
         'type' => 'tablet',

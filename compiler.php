@@ -1,5 +1,5 @@
 <?php
-define("HASH_FUNC", "crc32");
+define("HASH_FUNC", "crc32b");
 $pathUserAgents = __DIR__ . "/user-agent";
 $types = ["desktop", "tablet"];
 $pathBuild = __DIR__ . "/bin";
@@ -32,7 +32,7 @@ $userAgents = loadUserAgentsList($pathUserAgents, $types);
  */
 function compileLists(array $userAgents, array &$compiled, array &$priorities) {
     foreach ($userAgents as $userAgent => $meta) {
-        $compiledUserAgent = (hash(HASH_FUNC, $userAgent));
+        $compiledUserAgent = hexdec(hash(HASH_FUNC, $userAgent));
         echo "Loading $userAgent with $compiledUserAgent...", PHP_EOL;
         if (isset($compiled["userAgents"][$compiledUserAgent])) {
             throw new \Exception(HASH_FUNC . " collision!");
@@ -88,6 +88,7 @@ EOA;
 
 }
 foreach ($buildTypes as $type) {
+    echo sprintf("compiling %s\n", $type);
     build($pathBuild, $type, $compiled, $priorities);
 }
 
