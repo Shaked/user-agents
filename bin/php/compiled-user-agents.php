@@ -341,6 +341,117 @@ return array (
         'url' => 'http://www.aboundex.com',
       ),
     ),
+    596212422 => 
+    array (
+      'name' => 'Acoon',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.acoon.de/robot.asp',
+      'owner' => 
+      array (
+        'name' => 'Acoon',
+        'url' => 'http://www.acoon.de',
+      ),
+    ),
+    1822058694 => 
+    array (
+      'name' => 'AddThis',
+      'type' => 'bot',
+      'usage' => 'social media',
+      'url' => '',
+      'owner' => 
+      array (
+        'name' => 'Clearspring Technologies, Inc.',
+        'url' => 'http://www.clearspring.com',
+      ),
+    ),
+    856132219 => 
+    array (
+      'name' => 'aHrefs',
+      'type' => 'bot',
+      'usage' => 'aHrefs',
+      'url' => 'http://ahrefs.com/robot',
+      'owner' => 
+      array (
+        'name' => 'Ahrefs Pte Ltd',
+        'url' => 'http://ahrefs.com/robot',
+      ),
+    ),
+    1984963001 => 
+    array (
+      'name' => 'aHrefs',
+      'type' => 'bot',
+      'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
+      'usage' => 'aHrefs',
+      'url' => 'http://ahrefs.com/robot',
+      'owner' => 
+      array (
+        'name' => 'Ahrefs Pte Ltd',
+        'url' => 'http://ahrefs.com/robot',
+      ),
+    ),
+    508350338 => 
+    array (
+      'name' => 'aHrefs',
+      'type' => 'bot',
+      'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
+      'usage' => 'aHrefs',
+      'url' => 'http://ahrefs.com/robot',
+      'owner' => 
+      array (
+        'name' => 'Ahrefs Pte Ltd',
+        'url' => 'http://ahrefs.com/robot',
+      ),
+    ),
+    986068177 => 
+    array (
+      'name' => 'aHrefs',
+      'type' => 'bot',
+      'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
+      'usage' => 'aHrefs',
+      'url' => 'http://ahrefs.com/robot',
+      'owner' => 
+      array (
+        'name' => 'Ahrefs Pte Ltd',
+        'url' => 'http://ahrefs.com/robot',
+      ),
+    ),
+    3951149024 => 
+    array (
+      'name' => 'Alexa',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'https://alexa.zendesk.com/hc/en-us/sections/200100794-Crawlers',
+      'owner' => 
+      array (
+        'name' => 'Alexa Internet',
+        'url' => 'http://www.alexa.com',
+      ),
+    ),
+    1748361669 => 
+    array (
+      'name' => 'AmorankSpider',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://amorank.com/webcrawler.html',
+      'owner' => 
+      array (
+        'name' => 'Amorank',
+        'url' => 'http://www.amorank.com',
+      ),
+    ),
+    935519175 => 
+    array (
+      'name' => 'Analytics SEO Crawler',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.analyticsseo.com/crawler',
+      'owner' => 
+      array (
+        'name' => 'Analytics SEO',
+        'url' => 'http://www.analyticsseo.com',
+      ),
+    ),
     466837960 => 
     array (
       'name' => 'Facebook External Hit',

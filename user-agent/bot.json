@@ -49,6 +49,81 @@
       "url": "http://www.aboundex.com"
     }
   },
+  "Mozilla/5.0 (compatible; AcoonBot/4.11.1; +http://www.acoon.de/robot.asp)": {
+    "name": "Acoon",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.acoon.de/robot.asp",
+    "owner": {
+      "name": "Acoon",
+      "url": "http://www.acoon.de"
+    }
+  },
+  "AddThis.com robot tech.support@clearspring.com": {
+    "name": "AddThis",
+    "type": "bot",
+    "usage": "social media",
+    "url": "",
+    "owner": {
+      "name": "Clearspring Technologies, Inc.",
+      "url": "http://www.clearspring.com"
+    }
+  },
+  "Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)": {
+    "name": "aHrefs",
+    "type": "bot",
+    "usage": "aHrefs",
+    "url": "http://ahrefs.com/robot",
+    "owner": {
+      "name": "Ahrefs Pte Ltd",
+      "url": "http://ahrefs.com/robot"
+    }
+  },
+
+  "Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)": {
+   "type": "bot",
+    "ref":"Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)"
+  },
+
+  "Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/) AppEngine-Google; (+http://code.google.com/appengine; appid: s~proxyfile1-hrd)": {
+    "type": "bot",
+    "ref":"Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)"
+  },
+  "AhrefsBot.Feeds v0.1; http://ahrefs.com/": {
+    "type": "bot",
+   "ref":"Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)"
+   },
+
+  "ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)": {
+    "name": "Alexa",
+    "type": "bot",
+    "usage": "search",
+    "url": "https://alexa.zendesk.com/hc/en-us/sections/200100794-Crawlers",
+    "owner": {
+      "name": "Alexa Internet",
+      "url": "http://www.alexa.com"
+    }
+  },
+  "AmorankSpider/0.1; +http://amorank.com/webcrawler.html": {
+    "name": "AmorankSpider",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://amorank.com/webcrawler.html",
+    "owner": {
+      "name": "Amorank",
+      "url": "http://www.amorank.com"
+    }
+  },
+  "Curious George - www.analyticsseo.com/crawler": {
+    "name": "Analytics SEO Crawler",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://www.analyticsseo.com/crawler",
+    "owner": {
+      "name": "Analytics SEO",
+      "url": "http://www.analyticsseo.com"
+    }
+  },
   "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)": {
     "name": "Facebook External Hit",
     "type": "bot",
