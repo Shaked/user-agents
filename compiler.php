@@ -68,7 +68,7 @@ var CompiledUserAgents = `%s`
 var CompiledPriorityUserAgents = `%s`
 EOA;
         $goFile = sprintf($goFile, $json, $jsonPriorities);
-        file_put_contents($pathBuild . "/go/gouseragents/compiled-user-agents.go", $goFile);
+        file_put_contents($pathBuild . "/go/gouseragents/gouseragents.go", $goFile);
         break;
     case "json":
         $json = json_encode($compiled, JSON_NUMERIC_CHECK);
