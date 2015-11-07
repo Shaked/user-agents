@@ -296,6 +296,7 @@ return array (
     3221059249 => 
     array (
       'name' => '360Spider',
+      'ref' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider',
       'type' => 'bot',
       'usage' => 'search',
       'url' => 'http://www.so.com/help/help_3_2.html',
@@ -308,6 +309,7 @@ return array (
     788261597 => 
     array (
       'name' => '360Spider',
+      'ref' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider',
       'type' => 'bot',
       'usage' => 'search',
       'url' => 'http://www.so.com/help/help_3_2.html',
@@ -320,6 +322,7 @@ return array (
     2218680048 => 
     array (
       'name' => '360Spider',
+      'ref' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider',
       'type' => 'bot',
       'usage' => 'search',
       'url' => 'http://www.so.com/help/help_3_2.html',
@@ -380,8 +383,8 @@ return array (
     1984963001 => 
     array (
       'name' => 'aHrefs',
-      'type' => 'bot',
       'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
+      'type' => 'bot',
       'usage' => 'aHrefs',
       'url' => 'http://ahrefs.com/robot',
       'owner' => 
@@ -393,8 +396,8 @@ return array (
     508350338 => 
     array (
       'name' => 'aHrefs',
-      'type' => 'bot',
       'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
+      'type' => 'bot',
       'usage' => 'aHrefs',
       'url' => 'http://ahrefs.com/robot',
       'owner' => 
@@ -406,8 +409,8 @@ return array (
     986068177 => 
     array (
       'name' => 'aHrefs',
-      'type' => 'bot',
       'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
+      'type' => 'bot',
       'usage' => 'aHrefs',
       'url' => 'http://ahrefs.com/robot',
       'owner' => 
@@ -438,6 +441,108 @@ return array (
       array (
         'name' => 'Amorank',
         'url' => 'http://www.amorank.com',
+      ),
+    ),
+    1236909972 => 
+    array (
+      'name' => 'Apple',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.apple.com/go/applebot',
+      'owner' => 
+      array (
+        'name' => 'Apple Inc',
+        'url' => 'http://www.apple.com',
+      ),
+    ),
+    2222551869 => 
+    array (
+      'name' => 'Archive.org',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.archive.org/details/archive.org_bot',
+      'owner' => 
+      array (
+        'name' => 'The Internet Archive',
+        'url' => 'http://www.archive.org',
+      ),
+    ),
+    2816710430 => 
+    array (
+      'name' => 'Archive.org',
+      'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.archive.org/details/archive.org_bot',
+      'owner' => 
+      array (
+        'name' => 'The Internet Archive',
+        'url' => 'http://www.archive.org',
+      ),
+    ),
+    2225958295 => 
+    array (
+      'name' => 'Archive.org',
+      'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.archive.org/details/archive.org_bot',
+      'owner' => 
+      array (
+        'name' => 'The Internet Archive',
+        'url' => 'http://www.archive.org',
+      ),
+    ),
+    2258662522 => 
+    array (
+      'name' => 'Archive.org',
+      'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.archive.org/details/archive.org_bot',
+      'owner' => 
+      array (
+        'name' => 'The Internet Archive',
+        'url' => 'http://www.archive.org',
+      ),
+    ),
+    2795595515 => 
+    array (
+      'name' => 'Archive.org',
+      'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.archive.org/details/archive.org_bot',
+      'owner' => 
+      array (
+        'name' => 'The Internet Archive',
+        'url' => 'http://www.archive.org',
+      ),
+    ),
+    290119027 => 
+    array (
+      'name' => 'Archive.org',
+      'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.archive.org/details/archive.org_bot',
+      'owner' => 
+      array (
+        'name' => 'The Internet Archive',
+        'url' => 'http://www.archive.org',
+      ),
+    ),
+    4107257906 => 
+    array (
+      'name' => 'Archive.org',
+      'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.archive.org/details/archive.org_bot',
+      'owner' => 
+      array (
+        'name' => 'The Internet Archive',
+        'url' => 'http://www.archive.org',
       ),
     ),
     935519175 => 

@@ -1,0 +1,12 @@
+{
+  "Aboundex/0.3 (http://www.aboundex.com/crawler/)": {
+    "name": "Aboundexbot",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.aboundex.com/crawler/",
+    "owner": {
+      "name": "Aboundex",
+      "url": "http://www.aboundex.com"
+    }
+  }
+}

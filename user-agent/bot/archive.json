@@ -1,0 +1,30 @@
+{
+  "Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)": {
+    "name": "Archive.org",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://www.archive.org/details/archive.org_bot",
+    "owner": {
+      "name": "The Internet Archive",
+      "url": "http://www.archive.org"
+    }
+  },
+  "Mozilla/5.0 (compatible; special_archiver/3.2.0 +http://www.loc.gov/webarchiving/notice_to_webmasters.html)": {
+    "ref": "Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)"
+  },
+  "Mozilla/5.0 (compatible; archive.org_bot; Wayback Machine Live Record; +http://archive.org/details/archive.org_bot)": {
+    "ref": "Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)"
+  },
+  "Mozilla/5.0 (compatible; archive.org_bot/3.3.0 +http://pandora.nla.gov.au/crawl.html)": {
+    "ref": "Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)"
+  },
+  "Mozilla/5.0 (compatible; archive.org_bot; Archive-It; +http://archive-it.org/files/site-owners.html)": {
+    "ref": "Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)"
+  },
+  "Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)": {
+    "ref": "Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)"
+  },
+  "Mozilla/5.0 (compatible; heritrix/3.1.2-SNAPSHOT-20131029-0036 +http://archive.org/details/archive.org_bot)": {
+    "ref": "Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)"
+  }
+}

@@ -163,31 +163,5 @@
         "version": "537.36"
       }
     ]
-  },
-  "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240": {
-    "brand": "Lenovo Yoga",
-    "type": "tablet",
-    "platform": {
-      "name": "Windows NT",
-      "version": "10.0"
-    },
-    "engine": {
-      "name": "Webkit",
-      "version": "537.36"
-    },
-    "browsers": [
-      {
-        "name": "Chrome",
-        "version": "42.0.2311.135"
-      },
-      {
-        "name": "Safari",
-        "version": "537.36"
-      },
-      {
-        "name": "Edge",
-        "version": "12.10240"
-      }
-    ]
   }
 }

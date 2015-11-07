@@ -1,0 +1,21 @@
+{
+  "Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)": {
+    "name": "aHrefs",
+    "type": "bot",
+    "usage": "aHrefs",
+    "url": "http://ahrefs.com/robot",
+    "owner": {
+      "name": "Ahrefs Pte Ltd",
+      "url": "http://ahrefs.com/robot"
+    }
+  },
+  "Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)": {
+    "ref": "Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)"
+  },
+  "Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/) AppEngine-Google; (+http://code.google.com/appengine; appid: s~proxyfile1-hrd)": {
+    "ref": "Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)"
+  },
+  "AhrefsBot.Feeds v0.1; http://ahrefs.com/": {
+    "ref": "Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)"
+  }
+}

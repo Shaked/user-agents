@@ -1,0 +1,22 @@
+{
+  "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)": {
+    "name": "Facebook External Hit",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.aboundex.com/crawler/",
+    "owner": {
+      "name": "Aboundex",
+      "url": "http://www.aboundex.com"
+    }
+  },
+  "facebookplatform/1.0 (+http://developers.facebook.com)": {
+    "name": "Facebook External Hit",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.aboundex.com/crawler/",
+    "owner": {
+      "name": "Aboundex",
+      "url": "http://www.aboundex.com"
+    }
+  }
+}

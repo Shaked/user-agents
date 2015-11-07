@@ -1,0 +1,12 @@
+{
+  "DoCoMo/2.0 P900i(c100;TB;W24H11) (compatible; ichiro/mobile goo; +http://search.goo.ne.jp/option/use/sub4/sub4-1/)": {
+    "name": "Goo",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.aboundex.com/crawler/",
+    "owner": {
+      "name": "Aboundex",
+      "url": "http://www.aboundex.com"
+    }
+  }
+}

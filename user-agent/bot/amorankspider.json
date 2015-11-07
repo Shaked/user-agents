@@ -1,0 +1,12 @@
+{
+  "AmorankSpider/0.1; +http://amorank.com/webcrawler.html": {
+    "name": "AmorankSpider",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://amorank.com/webcrawler.html",
+    "owner": {
+      "name": "Amorank",
+      "url": "http://www.amorank.com"
+    }
+  }
+}

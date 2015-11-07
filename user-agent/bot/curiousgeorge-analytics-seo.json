@@ -1,0 +1,12 @@
+{
+  "Curious George - www.analyticsseo.com/crawler": {
+    "name": "Analytics SEO Crawler",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://www.analyticsseo.com/crawler",
+    "owner": {
+      "name": "Analytics SEO",
+      "url": "http://www.analyticsseo.com"
+    }
+  }
+}

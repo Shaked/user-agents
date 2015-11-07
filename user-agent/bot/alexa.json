@@ -1,0 +1,12 @@
+{
+  "ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)": {
+    "name": "Alexa",
+    "type": "bot",
+    "usage": "search",
+    "url": "https://alexa.zendesk.com/hc/en-us/sections/200100794-Crawlers",
+    "owner": {
+      "name": "Alexa Internet",
+      "url": "http://www.alexa.com"
+    }
+  }
+}

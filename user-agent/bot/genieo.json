@@ -1,0 +1,12 @@
+{
+  "Mozilla/5.0 (compatible; Genieo/1.0 http://www.genieo.com/webfilter.html)": {
+    "name": "Genieo Web filter",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.aboundex.com/crawler/",
+    "owner": {
+      "name": "Aboundex",
+      "url": "http://www.aboundex.com"
+    }
+  }
+}

@@ -16,10 +16,15 @@ $priorities = array_merge($meta, ["userAgents" => [20 => [], 100 => [], "rest" =
 function loadUserAgentsList($path, array $types) {
     $userAgents = [];
     foreach ($types as $type) {
-        $currentFile = sprintf("%s/%s.json", $path, $type);
-        $list = file_get_contents($currentFile);
-        $userAgent = json_decode($list, true);
-        $userAgents = array_merge($userAgents, $userAgent);
+        $currentPath = sprintf("%s/%s/", $path, $type);
+        $directoryIterator = new DirectoryIterator($currentPath);
+        foreach ($directoryIterator as $fileInfo) {
+            $currentFile = $fileInfo->getFilename();
+            if (0 === strpos($currentFile, ".")) {continue;}
+            $list = file_get_contents($currentPath . $currentFile);
+            $userAgent = json_decode($list, true);
+            $userAgents = array_merge($userAgents, $userAgent);
+        }
     }
     return $userAgents;
 
