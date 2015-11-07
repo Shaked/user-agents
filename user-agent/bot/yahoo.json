@@ -1,0 +1,35 @@
+{
+  "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp) NOT Firefox/3.5": {
+    "name": "Yahoo! Slurp",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://help.yahoo.com/ysearch/slurp",
+    "owner": {
+      "name": "Yahoo! Inc.",
+      "url": "http://www.yahoo.com"
+    }
+  },
+  "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)": {
+    "ref": "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp) NOT Firefox/3.5"
+  },
+  "Mozilla/5.0 (compatible; Yahoo Link Preview; https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html)": {
+    "name": "Yahoo Link Preview",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html",
+    "owner": {
+      "name": "Yahoo! Inc.",
+      "url": "http://www.yahoo.com"
+    }
+  },
+  "Mozilla/5.0 (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html)": {
+    "name": "Yahoo Gemini",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html",
+    "owner": {
+      "name": "Yahoo! Inc.",
+      "url": "http://www.yahoo.com"
+    }
+  }
+}

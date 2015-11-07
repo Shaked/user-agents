@@ -1,0 +1,21 @@
+{
+  "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)": {
+    "name": "Sogou Spider",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.sogou.com/docs/help/webmasters.htm",
+    "owner": {
+      "name": "Sohu, Inc.",
+      "url": "http://www.sogou.com"
+    }
+  },
+  "Sogou inst spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)": {
+    "ref": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"
+  },
+  "Sogou Pic Spider/3.0(+http://www.sogou.com/docs/help/webmasters.htm#07)": {
+    "ref": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"
+  },
+  "New-Sogou-Spider/1.0 (compatible; MSIE 5.5; Windows 98)": {
+    "ref": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"
+  }
+}

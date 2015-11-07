@@ -1,0 +1,18 @@
+{
+  "FeedlyBot/1.0 (http://feedly.com)": {
+    "name": "Feedly",
+    "type": "bot",
+    "usage": "feed",
+    "url": "http://www.feedly.com",
+    "owner": {
+      "name": "Feedly",
+      "url": "http://www.feedly.com"
+    }
+  },
+  "FeedlyApp/1.0 (http://www.feedly.com)": {
+    "ref": "FeedlyBot/1.0 (http://feedly.com)"
+  },
+  "MetaFeedly/1.0 (http://www.feedly.com)": {
+    "ref": "FeedlyBot/1.0 (http://feedly.com)"
+  }
+}
