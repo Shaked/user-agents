@@ -1,7 +1,7 @@
 <?php
 define("HASH_FUNC", "crc32b");
 $pathUserAgents = __DIR__ . "/user-agent";
-$types = ["desktop", "tablet"];
+$types = ["desktop", "tablet", "bot"];
 $pathBuild = __DIR__ . "/bin";
 $buildTypes = ["php", "json", "go"];
 $meta = ["meta" => ["hash" => HASH_FUNC]];
@@ -16,7 +16,8 @@ $priorities = array_merge($meta, ["userAgents" => [20 => [], 100 => [], "rest" =
 function loadUserAgentsList($path, array $types) {
     $userAgents = [];
     foreach ($types as $type) {
-        $list = file_get_contents(sprintf("%s/%s.json", $path, $type));
+        $currentFile = sprintf("%s/%s.json", $path, $type);
+        $list = file_get_contents($currentFile);
         $userAgent = json_decode($list, true);
         $userAgents = array_merge($userAgents, $userAgent);
     }
@@ -38,6 +39,12 @@ function compileLists(array $userAgents, array &$compiled, array &$priorities) {
             throw new \Exception(HASH_FUNC . " collision!");
         }
         $compiled["userAgents"][$compiledUserAgent] = array_merge(["name" => $userAgent], $meta);
+
+        //merge referenced user agent
+        if (isset($meta["ref"]) && !empty($userAgents[$meta["ref"]])) {
+            $compiled["userAgents"][$compiledUserAgent] = array_merge($compiled["userAgents"][$compiledUserAgent], $userAgents[$meta["ref"]]);
+        }
+
         if (!isset($meta["meta"]["priority"])) {
             $priority = "rest";
         } else {
