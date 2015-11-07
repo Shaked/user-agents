@@ -6,6 +6,126 @@ return array (
   ),
   'userAgents' => 
   array (
+    1779486179 => 
+    array (
+      'name' => 'Mozilla/6.0 (Macintosh; U; Amiga-AWeb) Safari 3.1',
+      'brand' => 'Amiga',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'AmigaOS',
+        'version' => 'AWeb',
+      ),
+      'engine' => 
+      array (
+        'name' => 'Webkit',
+        'version' => '',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Safari',
+          'version' => '3.1',
+        ),
+      ),
+    ),
+    535840165 => 
+    array (
+      'name' => 'AmigaVoyager/3.2 (AmigaOS/MC680x0)',
+      'brand' => 'Amiga',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'AmigaOS',
+        'version' => 'MC680x0',
+      ),
+      'engine' => 
+      array (
+        'name' => 'Webkit',
+        'version' => '',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'AmigaVoyager',
+          'version' => '3.2',
+        ),
+      ),
+    ),
+    2776187623 => 
+    array (
+      'name' => 'Mozilla/5.0 (AmigaOS; U; AmigaOS 1.3; en-US; rv:1.8.1.21) Gecko/20090303 SeaMonkey/1.1.15',
+      'brand' => 'Amiga',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'AmigaOS',
+        'version' => '1.3',
+      ),
+      'engine' => 
+      array (
+        'name' => 'Gecko',
+        'version' => '',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'SeaMonkey',
+          'version' => '1.1.15',
+        ),
+      ),
+    ),
+    2796610649 => 
+    array (
+      'name' => 'IBrowse/2.4 (AmigaOS 3.9; 68K)',
+      'brand' => 'Amiga',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'AmigaOS',
+        'version' => '3.9',
+      ),
+      'engine' => 
+      array (
+        'name' => '',
+        'version' => '',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'IBrowse',
+          'version' => '2.4',
+        ),
+      ),
+    ),
+    507465429 => 
+    array (
+      'name' => 'Mozilla/5.0 (compatible; IBrowse 3.0; AmigaOS4.0)',
+      'brand' => 'Amiga',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'AmigaOS',
+        'version' => '4.0',
+      ),
+      'engine' => 
+      array (
+        'name' => '',
+        'version' => '',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'IBrowse',
+          'version' => '3.0',
+        ),
+      ),
+    ),
     3056054538 => 
     array (
       'name' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.64 Safari/537.36',
@@ -32,6 +152,83 @@ return array (
         array (
           'name' => 'Safari',
           'version' => '537.36',
+        ),
+      ),
+    ),
+    1859292582 => 
+    array (
+      'name' => 'Mozilla/5.0 ArchLinux (X11; U; Linux x86_64; en-US) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30',
+      'brand' => 'Arch',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'Linux',
+        'version' => 'x64',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '534.30',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '12.0.742.100',
+        ),
+        1 => 
+        array (
+          'name' => 'Safari',
+          'version' => '534.30',
+        ),
+      ),
+    ),
+    2209767499 => 
+    array (
+      'name' => 'Mozilla/5.0 (X11; Arch Linux i686; rv:2.0) Gecko/20110321 Firefox/4.0',
+      'brand' => 'Arch',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'Linux',
+        'version' => 'x64',
+      ),
+      'engine' => 
+      array (
+        'name' => 'Gecko',
+        'version' => '20110321',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Firefox',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    1569961580 => 
+    array (
+      'name' => 'Mozilla/5 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML like Gecko) Arch Linux Firefox/23.0 Xfce',
+      'brand' => 'Arch',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'Linux',
+        'version' => 'x64',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.4',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Firefox',
+          'version' => '23.0 Xfce',
         ),
       ),
     ),
