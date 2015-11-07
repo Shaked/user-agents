@@ -869,6 +869,44 @@ return array (
         'url' => 'http://www.aboundex.com',
       ),
     ),
+    2326568385 => 
+    array (
+      'name' => 'Feedly',
+      'type' => 'bot',
+      'usage' => 'feed',
+      'url' => 'http://www.feedly.com',
+      'owner' => 
+      array (
+        'name' => 'Feedly',
+        'url' => 'http://www.feedly.com',
+      ),
+    ),
+    2992420527 => 
+    array (
+      'name' => 'Feedly',
+      'ref' => 'FeedlyBot/1.0 (http://feedly.com)',
+      'type' => 'bot',
+      'usage' => 'feed',
+      'url' => 'http://www.feedly.com',
+      'owner' => 
+      array (
+        'name' => 'Feedly',
+        'url' => 'http://www.feedly.com',
+      ),
+    ),
+    659106183 => 
+    array (
+      'name' => 'Feedly',
+      'ref' => 'FeedlyBot/1.0 (http://feedly.com)',
+      'type' => 'bot',
+      'usage' => 'feed',
+      'url' => 'http://www.feedly.com',
+      'owner' => 
+      array (
+        'name' => 'Feedly',
+        'url' => 'http://www.feedly.com',
+      ),
+    ),
     3294766636 => 
     array (
       'name' => 'Genieo Web filter',
@@ -1187,6 +1225,106 @@ return array (
       array (
         'name' => 'Google Inc',
         'url' => 'http://www.google.com',
+      ),
+    ),
+    1488008711 => 
+    array (
+      'name' => 'Sogou Spider',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.sogou.com/docs/help/webmasters.htm',
+      'owner' => 
+      array (
+        'name' => 'Sohu, Inc.',
+        'url' => 'http://www.sogou.com',
+      ),
+    ),
+    423877160 => 
+    array (
+      'name' => 'Sogou Spider',
+      'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.sogou.com/docs/help/webmasters.htm',
+      'owner' => 
+      array (
+        'name' => 'Sohu, Inc.',
+        'url' => 'http://www.sogou.com',
+      ),
+    ),
+    3047678115 => 
+    array (
+      'name' => 'Sogou Spider',
+      'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.sogou.com/docs/help/webmasters.htm',
+      'owner' => 
+      array (
+        'name' => 'Sohu, Inc.',
+        'url' => 'http://www.sogou.com',
+      ),
+    ),
+    4059953148 => 
+    array (
+      'name' => 'Sogou Spider',
+      'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.sogou.com/docs/help/webmasters.htm',
+      'owner' => 
+      array (
+        'name' => 'Sohu, Inc.',
+        'url' => 'http://www.sogou.com',
+      ),
+    ),
+    514780869 => 
+    array (
+      'name' => 'Yahoo! Slurp',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://help.yahoo.com/ysearch/slurp',
+      'owner' => 
+      array (
+        'name' => 'Yahoo! Inc.',
+        'url' => 'http://www.yahoo.com',
+      ),
+    ),
+    3021709615 => 
+    array (
+      'name' => 'Yahoo! Slurp',
+      'ref' => 'Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp) NOT Firefox/3.5',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://help.yahoo.com/ysearch/slurp',
+      'owner' => 
+      array (
+        'name' => 'Yahoo! Inc.',
+        'url' => 'http://www.yahoo.com',
+      ),
+    ),
+    3385505415 => 
+    array (
+      'name' => 'Yahoo Link Preview',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html',
+      'owner' => 
+      array (
+        'name' => 'Yahoo! Inc.',
+        'url' => 'http://www.yahoo.com',
+      ),
+    ),
+    401220224 => 
+    array (
+      'name' => 'Yahoo Gemini',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html',
+      'owner' => 
+      array (
+        'name' => 'Yahoo! Inc.',
+        'url' => 'http://www.yahoo.com',
       ),
     ),
     1404830827 => 
