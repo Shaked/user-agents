@@ -62,14 +62,13 @@ function build($pathBuild, $type, $compiled, $priorities) {
         $json = json_encode($compiled, JSON_NUMERIC_CHECK);
         $jsonPriorities = json_encode($priorities, JSON_NUMERIC_CHECK);
         $goFile = <<<EOA
-package devicedetect
+package gouseragents
 
-var compiledUserAgents = `%s`
+var CompiledUserAgents = `%s`
+var CompiledPriorityUserAgents = `%s`
 EOA;
-        $goFile = sprintf($goFile, $json);
-        $goFilePriorities = sprintf($goFile, $jsonPriorities);
-        file_put_contents($pathBuild . "/go/compiled-user-agents.go", $goFile);
-        file_put_contents($pathBuild . "/go/compiled-priority-user-agents.go", $goFilePriorities);
+        $goFile = sprintf($goFile, $json, $jsonPriorities);
+        file_put_contents($pathBuild . "/go/gouseragents/compiled-user-agents.go", $goFile);
         break;
     case "json":
         $json = json_encode($compiled, JSON_NUMERIC_CHECK);
