@@ -1,0 +1,12 @@
+{
+  "Browsershots": {
+    "name": "Bountii Bot",
+    "type": "bot",
+    "usage": "service agent",
+    "url": "http://browsershots.org/faq",
+    "owner": {
+      "name": "Browsershots.org",
+      "url": "http://browsershots.org"
+    }
+  }
+}

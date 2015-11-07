@@ -1,0 +1,42 @@
+{
+  "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)": {
+    "name": "Yandex Bot",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.yandex.com/bots",
+    "owner": {
+      "name": "Yandex LLC",
+      "url": "http://company.yandex.com"
+    }
+  },
+  "Mozilla/5.0 (compatible; YandexAntivirus/2.0; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; YandexDirect/3.0; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; YandexBlogs/0.99; robot; B; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; YandexImageResizer/2.0; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; YandexFavicons/1.0; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; YandexNewslinks; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; YandexNews/3.0; +http://yandex.com/bots)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  },
+  "Mozilla/5.0 (compatible; Linux i686; Yandex.Gazeta Bot/1.0; +http://gazeta.yandex.ru)": {
+    "ref": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+  }
+}

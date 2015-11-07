@@ -1,0 +1,12 @@
+{
+  "Mozilla/5.0 (compatible; BountiiBot/1.1; +http://bountii.com/contact.php)": {
+    "name": "Bountii Bot",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://bountii.com/contact.php",
+    "owner": {
+      "name": "Bountii Inc.",
+      "url": "http://bountii.com"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b": {
+    "name": "BingBot",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://search.msn.com/msnbot.htmn",
+    "owner": {
+      "name": "Microsoft Corporation",
+      "url": "http://www.microsoft.com"
+    }
+  },
+  "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)": {
+    "ref": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b"
+  },
+  "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)": {
+    "ref": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b"
+  },
+  "msnbot/2.0b v1394720947.6703": {
+    "ref": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b"
+  },
+  "msnbot/1.1 (+http://search.msn.com/msnbot.htm)": {
+    "ref": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b"
+  },
+  "msnbot/2.0b (+http://search.msn.com/msnbot.htm)": {
+    "ref": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b"
+  },
+  "msnbot-NewsBlogs/2.0b (+http://search.msn.com/msnbot.htm)": {
+    "ref": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b"
+  }
+}

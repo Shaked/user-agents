@@ -1,0 +1,12 @@
+{
+  "Mozilla/5.0 (compatible; BazQux/2.4; +https://bazqux.com/fetcher; 2 subscribers)": {
+    "name": "BazQux Reader",
+    "type": "bot",
+    "usage": "search",
+    "url": "https://bazqux.com/fetcher",
+    "owner": {
+      "name": "",
+      "url": ""
+    }
+  }
+}

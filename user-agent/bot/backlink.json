@@ -1,0 +1,22 @@
+{
+  "Backlink-Ceck.de (+http://www.backlink-check.de/bot.html)": {
+    "name": "Backlink-Ceck.de",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://www.backlink-check.de/bot.html",
+    "owner": {
+      "name": "Mediagreen Medienservice",
+      "url": "http://www.backlink-check.de"
+    }
+  },
+  "BacklinkCrawler (http://www.backlinktest.com/crawler.html)": {
+    "name": "BacklinkCrawler",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://www.backlinktest.com/crawler.html",
+    "owner": {
+      "name": "2.0Promotion GbR",
+      "url": "http://www.backlinktest.com"
+    }
+  }
+}

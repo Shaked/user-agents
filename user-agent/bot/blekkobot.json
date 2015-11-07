@@ -1,0 +1,12 @@
+{
+  "Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)": {
+    "name": "Blekkobot",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://blekko.com/about/blekkobot",
+    "owner": {
+      "name": "Blekko",
+      "url": "http://blekko.com"
+    }
+  }
+}

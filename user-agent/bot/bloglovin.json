@@ -1,0 +1,12 @@
+{
+  "Bloglovin/1.0 (http://www.bloglovin.com; 1 subscribers)": {
+    "name": "Bloglovin",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://www.bloglovin.com",
+    "owner": {
+      "name": "Feed Fetcher",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)": {
+    "name": "BLEXBot",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "http://webmeup-crawler.com",
+    "owner": {
+      "name": "WebMeUp",
+      "url": "http://webmeup.com"
+    }
+  }
+}

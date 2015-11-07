@@ -553,6 +553,294 @@ return array (
           'url' => 'http://www.archive.org',
         ),
       ),
+      4041753334 => 
+      array (
+        'name' => 'Ask Jeeves',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => '',
+        'owner' => 
+        array (
+          'name' => 'Ask Jeeves Inc.',
+          'url' => 'http://www.ask.com',
+        ),
+      ),
+      555801853 => 
+      array (
+        'name' => 'Backlink-Ceck.de',
+        'type' => 'bot',
+        'usage' => 'crawler',
+        'url' => 'http://www.backlink-check.de/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Mediagreen Medienservice',
+          'url' => 'http://www.backlink-check.de',
+        ),
+      ),
+      3343103405 => 
+      array (
+        'name' => 'BacklinkCrawler',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.backlinktest.com/crawler.html',
+        'owner' => 
+        array (
+          'name' => '2.0Promotion GbR',
+          'url' => 'http://www.backlinktest.com',
+        ),
+      ),
+      1294781533 => 
+      array (
+        'name' => 'Baidu Spider',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.baidu.com/search/spider.htm',
+        'owner' => 
+        array (
+          'name' => 'Baidu',
+          'url' => 'http://www.baidu.com',
+        ),
+      ),
+      1650907483 => 
+      array (
+        'name' => 'Baidu Spider',
+        'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.baidu.com/search/spider.htm',
+        'owner' => 
+        array (
+          'name' => 'Baidu',
+          'url' => 'http://www.baidu.com',
+        ),
+      ),
+      3954011295 => 
+      array (
+        'name' => 'Baidu Spider',
+        'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.baidu.com/search/spider.htm',
+        'owner' => 
+        array (
+          'name' => 'Baidu',
+          'url' => 'http://www.baidu.com',
+        ),
+      ),
+      324714432 => 
+      array (
+        'name' => 'Baidu Spider',
+        'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.baidu.com/search/spider.htm',
+        'owner' => 
+        array (
+          'name' => 'Baidu',
+          'url' => 'http://www.baidu.com',
+        ),
+      ),
+      607054446 => 
+      array (
+        'name' => 'Baidu Spider',
+        'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.baidu.com/search/spider.htm',
+        'owner' => 
+        array (
+          'name' => 'Baidu',
+          'url' => 'http://www.baidu.com',
+        ),
+      ),
+      2791765900 => 
+      array (
+        'name' => 'Baidu Spider',
+        'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.baidu.com/search/spider.htm',
+        'owner' => 
+        array (
+          'name' => 'Baidu',
+          'url' => 'http://www.baidu.com',
+        ),
+      ),
+      3196817745 => 
+      array (
+        'name' => 'Baidu Spider',
+        'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.baidu.com/search/spider.htm',
+        'owner' => 
+        array (
+          'name' => 'Baidu',
+          'url' => 'http://www.baidu.com',
+        ),
+      ),
+      73373531 => 
+      array (
+        'name' => 'BazQux Reader',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'https://bazqux.com/fetcher',
+        'owner' => 
+        array (
+          'name' => '',
+          'url' => '',
+        ),
+      ),
+      111452615 => 
+      array (
+        'name' => 'BingBot',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://search.msn.com/msnbot.htmn',
+        'owner' => 
+        array (
+          'name' => 'Microsoft Corporation',
+          'url' => 'http://www.microsoft.com',
+        ),
+      ),
+      2243209808 => 
+      array (
+        'name' => 'BingBot',
+        'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://search.msn.com/msnbot.htmn',
+        'owner' => 
+        array (
+          'name' => 'Microsoft Corporation',
+          'url' => 'http://www.microsoft.com',
+        ),
+      ),
+      2100471819 => 
+      array (
+        'name' => 'BingBot',
+        'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://search.msn.com/msnbot.htmn',
+        'owner' => 
+        array (
+          'name' => 'Microsoft Corporation',
+          'url' => 'http://www.microsoft.com',
+        ),
+      ),
+      4239134739 => 
+      array (
+        'name' => 'BingBot',
+        'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://search.msn.com/msnbot.htmn',
+        'owner' => 
+        array (
+          'name' => 'Microsoft Corporation',
+          'url' => 'http://www.microsoft.com',
+        ),
+      ),
+      1844967109 => 
+      array (
+        'name' => 'BingBot',
+        'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://search.msn.com/msnbot.htmn',
+        'owner' => 
+        array (
+          'name' => 'Microsoft Corporation',
+          'url' => 'http://www.microsoft.com',
+        ),
+      ),
+      712284802 => 
+      array (
+        'name' => 'BingBot',
+        'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://search.msn.com/msnbot.htmn',
+        'owner' => 
+        array (
+          'name' => 'Microsoft Corporation',
+          'url' => 'http://www.microsoft.com',
+        ),
+      ),
+      966368964 => 
+      array (
+        'name' => 'BingBot',
+        'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://search.msn.com/msnbot.htmn',
+        'owner' => 
+        array (
+          'name' => 'Microsoft Corporation',
+          'url' => 'http://www.microsoft.com',
+        ),
+      ),
+      2853841432 => 
+      array (
+        'name' => 'Blekkobot',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://blekko.com/about/blekkobot',
+        'owner' => 
+        array (
+          'name' => 'Blekko',
+          'url' => 'http://blekko.com',
+        ),
+      ),
+      658063966 => 
+      array (
+        'name' => 'BLEXBot',
+        'type' => 'bot',
+        'usage' => 'crawler',
+        'url' => 'http://webmeup-crawler.com',
+        'owner' => 
+        array (
+          'name' => 'WebMeUp',
+          'url' => 'http://webmeup.com',
+        ),
+      ),
+      1140610131 => 
+      array (
+        'name' => 'Bloglovin',
+        'type' => 'bot',
+        'usage' => 'crawler',
+        'url' => 'http://www.bloglovin.com',
+        'owner' => 
+        array (
+          'name' => 'Feed Fetcher',
+          'url' => '',
+        ),
+      ),
+      3873043941 => 
+      array (
+        'name' => 'Bountii Bot',
+        'type' => 'bot',
+        'usage' => 'crawler',
+        'url' => 'http://bountii.com/contact.php',
+        'owner' => 
+        array (
+          'name' => 'Bountii Inc.',
+          'url' => 'http://bountii.com',
+        ),
+      ),
+      2304965042 => 
+      array (
+        'name' => 'Bountii Bot',
+        'type' => 'bot',
+        'usage' => 'service agent',
+        'url' => 'http://browsershots.org/faq',
+        'owner' => 
+        array (
+          'name' => 'Browsershots.org',
+          'url' => 'http://browsershots.org',
+        ),
+      ),
       935519175 => 
       array (
         'name' => 'Analytics SEO Crawler',
@@ -617,24 +905,24 @@ return array (
       array (
         'name' => 'Google PageSpeed Insights',
         'type' => 'bot',
-        'usage' => 'search',
-        'url' => 'http://www.aboundex.com/crawler/',
+        'usage' => 'site monitor',
+        'url' => 'http://developers.google.com/speed/pagespeed/insights/',
         'owner' => 
         array (
-          'name' => 'Aboundex',
-          'url' => 'http://www.aboundex.com',
+          'name' => 'Google Inc.',
+          'url' => 'http://www.google.com',
         ),
       ),
       1708708451 => 
       array (
         'name' => 'Gmail Image Proxy',
         'type' => 'bot',
-        'usage' => 'search',
-        'url' => 'http://www.aboundex.com/crawler/',
+        'usage' => 'crawler',
+        'url' => '',
         'owner' => 
         array (
-          'name' => 'Aboundex',
-          'url' => 'http://www.aboundex.com',
+          'name' => 'Google Inc.',
+          'url' => 'http://www.google.com',
         ),
       ),
       4078425266 => 
@@ -642,10 +930,10 @@ return array (
         'name' => 'Googlebot',
         'type' => 'bot',
         'usage' => 'search',
-        'url' => 'http://www.google.com',
+        'url' => 'http://www.google.com/bot.html',
         'owner' => 
         array (
-          'name' => 'Google',
+          'name' => 'Google Inc',
           'url' => 'http://www.google.com',
         ),
       ),
@@ -653,13 +941,402 @@ return array (
       array (
         'name' => 'Googlebot',
         'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
-        'url' => 'http://www.google.com',
         'type' => 'bot',
         'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
         'owner' => 
         array (
-          'name' => 'Google',
+          'name' => 'Google Inc',
           'url' => 'http://www.google.com',
+        ),
+      ),
+      74979015 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      3719395355 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      270348489 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      3536478932 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      1891202947 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      725974516 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      446203704 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      44475768 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      340974114 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      77767541 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      1232700268 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      3481612680 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      2154065003 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      4255133414 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      2835114589 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      2126875797 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      1423518827 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      3491824334 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      4009179942 => 
+      array (
+        'name' => 'Googlebot',
+        'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.google.com/bot.html',
+        'owner' => 
+        array (
+          'name' => 'Google Inc',
+          'url' => 'http://www.google.com',
+        ),
+      ),
+      1404830827 => 
+      array (
+        'name' => 'Yandex Bot',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      235556838 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      1116417266 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      2786216367 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      1634070523 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      4274658416 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      1352644095 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      2407765221 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      319848177 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      2611421694 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
+        ),
+      ),
+      3750960882 => 
+      array (
+        'name' => 'Yandex Bot',
+        'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+        'type' => 'bot',
+        'usage' => 'search',
+        'url' => 'http://www.yandex.com/bots',
+        'owner' => 
+        array (
+          'name' => 'Yandex LLC',
+          'url' => 'http://company.yandex.com',
         ),
       ),
     ),
