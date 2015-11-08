@@ -405,7 +405,7 @@ return array (
         'engine' => 
         array (
           'name' => 'Webkit',
-          'version' => '534.30',
+          'version' => '535.19',
         ),
         'browsers' => 
         array (
@@ -436,7 +436,7 @@ return array (
         'engine' => 
         array (
           'name' => 'Webkit',
-          'version' => '534.30',
+          'version' => '537.36',
         ),
         'browsers' => 
         array (
@@ -444,6 +444,193 @@ return array (
           array (
             'name' => 'Chrome',
             'version' => '29.0.1547.72',
+          ),
+          1 => 
+          array (
+            'name' => 'Safari',
+            'version' => '537.36',
+          ),
+        ),
+      ),
+      2099259460 => 
+      array (
+        'name' => 'Mozilla/5.0 (Linux; Android 4.2.2; A1-810 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31',
+        'brand' => 'Acer',
+        'type' => 'tablet',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'A1-810',
+        ),
+        'engine' => 
+        array (
+          'name' => 'Webkit',
+          'version' => '537.31',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '26.0.1410',
+          ),
+          1 => 
+          array (
+            'name' => 'Safari',
+            'version' => '537.31',
+          ),
+        ),
+      ),
+      132153347 => 
+      array (
+        'name' => 'Mozilla/5.0 (Linux; U; Android 4.2.2; nl-nl; A1-810 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; A1-811 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+        'brand' => 'Acer',
+        'type' => 'tablet',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'A1-811',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'UNKNOWN',
+            'version' => '4.0',
+          ),
+          1 => 
+          array (
+            'name' => 'Safari',
+            'version' => '534.30',
+          ),
+        ),
+      ),
+      2018118894 => 
+      array (
+        'name' => 'Mozilla/5.0 (Linux; Android 4.2.2; A3-A10 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Safari/537.36',
+        'brand' => 'Acer',
+        'type' => 'tablet',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'A3-A10',
+        ),
+        'engine' => 
+        array (
+          'name' => 'Webkit',
+          'version' => '537.36',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '32.0.1700.99',
+          ),
+          1 => 
+          array (
+            'name' => 'Safari',
+            'version' => '537.36',
+          ),
+        ),
+      ),
+      2335106587 => 
+      array (
+        'name' => 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; A1-811 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+        'brand' => 'Acer',
+        'type' => 'tablet',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'A1-811',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'UNKNOWN',
+            'version' => '4.0',
+          ),
+          1 => 
+          array (
+            'name' => 'Safari',
+            'version' => '534.30',
+          ),
+        ),
+      ),
+      1046114283 => 
+      array (
+        'name' => 'Mozilla/5.0 (Linux; Android 4.2.2; A1-830 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Safari/537.36',
+        'brand' => 'Acer',
+        'type' => 'tablet',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'A1-830',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebkit',
+          'version' => '537.36',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '35.0.1916.141',
+          ),
+          1 => 
+          array (
+            'name' => 'Safari',
+            'version' => '537.36',
+          ),
+        ),
+      ),
+      606857979 => 
+      array (
+        'name' => 'Mozilla/5.0 (Linux; Android 4.2.2; A3-A11 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36',
+        'brand' => 'Acer',
+        'type' => 'tablet',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'A3-A11',
+        ),
+        'engine' => 
+        array (
+          'name' => 'Webkit',
+          'version' => '537.36',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '34.0.1847.114',
           ),
           1 => 
           array (
