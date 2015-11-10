@@ -631,6 +631,162 @@ return array (
         ),
       ),
     ),
+    1410359571 => 
+    array (
+      'name' => 'Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X; en-us) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/21.0.1180.80 Mobile/9B206 Safari/7534.48.3 (6FF046A0-1BC4-4E7D-8A9D-6BF17622A123)',
+      'brand' => 'Apple',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'iOS',
+        'version' => '5.1.1',
+        'build' => '9B206',
+        'model' => 'iPad',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '534.46.0',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '21.0.1180.80',
+        ),
+      ),
+    ),
+    4046880317 => 
+    array (
+      'name' => 'Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25',
+      'brand' => 'Apple',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'iOS',
+        'version' => '6.0',
+        'build' => '10A403',
+        'model' => 'iPad',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '536.26',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Safari',
+          'version' => '6.0',
+        ),
+      ),
+    ),
+    3580122540 => 
+    array (
+      'name' => 'Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5',
+      'brand' => 'Apple',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'iOS',
+        'version' => '4.2.1',
+        'build' => '8C148',
+        'model' => 'iPad',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '533.17.9',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Safari',
+          'version' => '5.0.2',
+        ),
+      ),
+    ),
+    3566017927 => 
+    array (
+      'name' => 'Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10',
+      'brand' => 'Apple',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'iOS',
+        'version' => '3.2',
+        'build' => '7B334b',
+        'model' => 'iPad',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '531.21.10',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Safari',
+          'version' => '4.0.4',
+        ),
+      ),
+    ),
+    3164916216 => 
+    array (
+      'name' => 'Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Coast/1.0.2.62956 Mobile/10B329 Safari/7534.48.3',
+      'brand' => 'Apple',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'iOS',
+        'version' => '6.1.3',
+        'build' => '10B329',
+        'model' => 'iPad',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '536.26',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Coast',
+          'version' => '1.0.2.62956',
+        ),
+      ),
+    ),
+    10906028 => 
+    array (
+      'name' => 'Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53',
+      'brand' => 'Apple',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'iOS',
+        'version' => '7.0',
+        'build' => '11A465',
+        'model' => 'iPad',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.51.1',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Safari',
+          'version' => '7.0',
+        ),
+      ),
+    ),
     448760864 => 
     array (
       'name' => 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240',
