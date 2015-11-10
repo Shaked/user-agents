@@ -75,5 +75,125 @@
         "version": "5.1"
       }
     ]
+  },
+  "Mozilla/5.0 (iPod; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25": {
+    "brand": "Apple",
+    "type": "mobile",
+    "platform": {
+      "name": "iOS",
+      "version": "6.0",
+      "build": "10A403",
+      "model": "iPod"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "536.26"
+    },
+    "browsers": [
+      {
+        "name": "Safari",
+        "version": "6.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X; da-dk) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/21.0.1180.82 Mobile/10A523 Safari/7534.48.3": {
+    "brand": "Apple",
+    "type": "mobile",
+    "platform": {
+      "name": "iOS",
+      "version": "6.0.1",
+      "build": "10A523",
+      "model": "iPhone"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.46.0"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "21.0.1180.82"
+      }
+    ]
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25": {
+    "brand": "Apple",
+    "type": "mobile",
+    "platform": {
+      "name": "iOS",
+      "version": "6.0.1",
+      "build": "10A523",
+      "model": "iPhone"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "536.26"
+    },
+    "browsers": [
+      {
+        "name": "Safari",
+        "version": "6.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X; ru-ru) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/10B142 Safari/8536.25": {
+    "brand": "Apple",
+    "type": "mobile",
+    "platform": {
+      "name": "iOS",
+      "version": "6.1",
+      "build": "10B142",
+      "model": "iPhone"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "536.26"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "23.0.1271.100"
+      }
+    ]
+  },
+  "Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Coast/1.0.2.62956 Mobile/10B329 Safari/7534.48.3": {
+    "brand": "Apple",
+    "type": "mobile",
+    "platform": {
+      "name": "iOS",
+      "version": "6.1.3",
+      "build": "10B329",
+      "model": "iPad"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "536.26"
+    },
+    "browsers": [
+      {
+        "name": "Coast",
+        "version": "1.0.2.62956"
+      }
+    ]
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/38.0.2125.59 Mobile/12A405 Safari/600.1.4": {
+    "brand": "Apple",
+    "type": "mobile",
+    "platform": {
+      "name": "iOS",
+      "version": "8.0.2",
+      "build": "12A405",
+      "model": "iPhone"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "600.1.4"
+    },
+    "browsers": [
+      {
+        "name": "CriOS",
+        "version": "38.0.2125.59"
+      }
+    ]
   }
 }
