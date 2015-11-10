@@ -787,6 +787,134 @@ return array (
         ),
       ),
     ),
+    139632407 => 
+    array (
+      'name' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.1.1',
+        'build' => 'JRO03D',
+        'model' => 'Nexus 7',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '535.19',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '18.0.1025.166',
+        ),
+      ),
+    ),
+    3529884276 => 
+    array (
+      'name' => 'Mozilla/5.0 (Linux; Android 4.2; Nexus 7 Build/JOP40C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2',
+        'build' => 'JOP40C',
+        'model' => 'Nexus 7',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '535.19',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '18.0.1025.166',
+        ),
+      ),
+    ),
+    3452720376 => 
+    array (
+      'name' => 'Mozilla/5.0 (Linux; Android 4.1.2; Nexus 7 Build/JZ054K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.1.2',
+        'build' => 'JZ054K',
+        'model' => 'Nexus 7',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '535.19',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '18.0.1025.166',
+        ),
+      ),
+    ),
+    3424847834 => 
+    array (
+      'name' => 'Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '29.0.1547.72',
+        ),
+      ),
+    ),
+    3570089311 => 
+    array (
+      'name' => 'Mozilla/5.0 (Linux; U; Android; en_us; Nexus 7 Build/) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 NetFrontLifeBrowser/2.3 Mobile (Dragonfruit)',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'model' => 'Nexus 7',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '530.17',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
     448760864 => 
     array (
       'name' => 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240',
@@ -2008,6 +2136,42 @@ return array (
         'name' => 'Yandex LLC',
         'url' => 'http://company.yandex.com',
       ),
+    ),
+    2723511675 => 
+    array (
+      'name' => 'iTunes',
+      'type' => 'app',
+      'version' => '9.1.1',
+      'url' => 'http://www.apple.com/itunes/',
+    ),
+    2547364277 => 
+    array (
+      'name' => 'iTunes',
+      'type' => 'app',
+      'version' => '11.0.2',
+      'platform' => 
+      array (
+        'name' => 'Windows',
+        'version' => '8 x64 Business Edition',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '536.27.1',
+      ),
+      'url' => 'http://www.apple.com/itunes/',
+    ),
+    2470942401 => 
+    array (
+      'name' => 'iTunes',
+      'type' => 'app',
+      'version' => '0.9.0',
+      'platform' => 
+      array (
+        'name' => 'iOS',
+        'version' => '7.1.1',
+      ),
+      'url' => 'http://www.checkmybus.com/',
     ),
   ),
 );

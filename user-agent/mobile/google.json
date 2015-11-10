@@ -1,0 +1,105 @@
+{
+  "Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "2.2",
+      "build": "FRF91",
+      "model": "Nexus One"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "533.1"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.2; Nexus 4 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.40 Mobile Safari/537.31 OPR/14.0.1074.54070": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.2.2",
+      "build": "JDQ39",
+      "model": "Nexus One"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.31"
+    },
+    "browsers": [
+      {
+        "name": "Opera",
+        "version": "14.0.1074.54070"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.2; Nexus 4 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.2.2",
+      "build": "JDQ39",
+      "model": "Nexus One"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.31"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "26.0.1410.58"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; Google Nexus 4 - 4.1.1 - API 16 - 768x1280 Build/JRO03S) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.1.1",
+      "build": "JRO03S",
+      "model": "Nexus 4"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.30"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; Google Galaxy Nexus - 4.1.1 - API 16 - 720x1280 Build/JRO03S) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; Google Nexus 4 - 4.1.1 - API 16 - 768x1280 Build/JRO03S) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.2; cs-cz; Nexus S Build/JZO54K; CyanogenMod-10.0.0) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "CyanogenMod",
+      "version": "10.0.0",
+      "build": "JZO54K",
+      "model": "Nexus S"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.30"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  }
+}

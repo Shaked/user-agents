@@ -1,8 +1,9 @@
 <?php
 define("HASH_FUNC", "crc32b");
 $pathUserAgents = __DIR__ . "/user-agent";
-$types = ["desktop", "tablet", "bot"];
-$pathBuild = __DIR__ . "/bin";
+$types = ["desktop", "tablet", "bot", "apps"];
+//TODO: define structures per type
+$pathBuild = __DIR__ . "/packages";
 $buildTypes = ["php", "json", "go"];
 $meta = ["meta" => ["hash" => HASH_FUNC]];
 $compiled = array_merge($meta, ["userAgents" => []]);
