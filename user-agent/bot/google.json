@@ -53,12 +53,6 @@
   "Googlebot-News (2.3.3, ruby 1.9.3 (2013-11-22))": {
     "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
   },
-  "DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
-    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
-  },
-  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
-    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
-  },
   "Mozilla/5.0 (compatible) Feedfetcher-Google;(+http://www.google.com/feedfetcher.html)": {
     "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
   },
@@ -87,6 +81,159 @@
     "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
   },
   "Mediapartners-Google": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/537.4 (KHTML, like Gecko; Google Page Speed Insights) Version/6.0 Mobile/10A525 Safari/8536.25 GoogleBot/2.1": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376eSafari/8536.25 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "mozilla/5.0 (iphone; cpu iphone os 8_3 like mac os x) applewebkit/537.36 (khtml, like gecko) version/8.0 mobile/12f70 safari/600.1.4 (compatible; googlebot/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4(compatible; Googlebot/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot-Mobile/2.1; http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) ASProxy/5.5.0": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "mozilla/5.0 (iphone; cpu iphone os 6_0_1 like mac os x) applewebkit/537.36 (khtml, like gecko; google page speed insights) version/6.0 mobile/10a525 safari/8536.25 googlebot/2.1": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "mozilla/5.0 (iphone; u; cpu iphone os) (compatible; googlebot-mobile/2.1; http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_1_1 like Mac OS X; en) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/19.0.1084.60 Mobile/9B206 Safari/7534.48.3 (compatible; Googlebot-Mobile/2.1; +http://w": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4 (compatible; Googlebot/2.1; http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.Kit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googleb": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) A like Gecko; Google Page Speed Insights) Version/6.0 Mobile/10A525 Safari/8536.25 GoogleBot/2.1": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bremote_programs_files//'javascript:removeFromCart(/%22suite_474/%22": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.crawl-66-249-74-23.googlebot.com - - [25/Feb/2013:06:30:22 -0500]": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobil": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mo": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot-Mo": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobi": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iphone; u; cpu iphone os 3.0like mac os x; en-us;compatible;googlebot/2.1;http://www.google.com/bot.html;aplewebkit/528.18(khtml,likegecko)version/4.0 movile/7a341 UNTRUSTED/1.0": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +h": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +ht": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bo": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.htm": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot-Mobile/2.1; +h": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.ht": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "Mozilla/5.0 (iPhone; U; CPU iPhone OS) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "docomo/2.0 n905i (c100;tb;w24h16) (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "docomo/2.0 n905i(c100;tb;w24h16) (compatible; googlebot-mobile/2.1; http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +hlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "docomo/2.0 n905i(c100;tb;w24h16) (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "DoCoMo//2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googcrawl-66-249-74-152.googlebot.com - - [07/Jan/2013:03:21:29 -0500]": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mob": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; http://www.google.com/bot.html) [Html2Wml/0.4.11 libwww-perl/5": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.goo173.199.115.147.ahrefs.com - - [11/Mar/2013:01:48:47 -0400]": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.ht": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/b": {
+    "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
+  },
+  "HideMe.mobi Browser SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)": {
     "ref": "Googlebot/2.1 (http://www.googlebot.com/bot.html)"
   }
 }

@@ -6,9 +6,9 @@ return array (
   ),
   'userAgents' => 
   array (
-    1779486179 => 
+    1912286093 => 
     array (
-      'name' => 'Mozilla/6.0 (Macintosh; U; Amiga-AWeb) Safari 3.1',
+      'name' => 'mozilla/6.0 (macintosh; u; amiga-aweb) safari 3.1',
       'brand' => 'Amiga',
       'type' => 'desktop',
       'platform' => 
@@ -30,9 +30,9 @@ return array (
         ),
       ),
     ),
-    535840165 => 
+    1783219736 => 
     array (
-      'name' => 'AmigaVoyager/3.2 (AmigaOS/MC680x0)',
+      'name' => 'amigavoyager/3.2 (amigaos/mc680x0)',
       'brand' => 'Amiga',
       'type' => 'desktop',
       'platform' => 
@@ -54,9 +54,9 @@ return array (
         ),
       ),
     ),
-    2776187623 => 
+    848668396 => 
     array (
-      'name' => 'Mozilla/5.0 (AmigaOS; U; AmigaOS 1.3; en-US; rv:1.8.1.21) Gecko/20090303 SeaMonkey/1.1.15',
+      'name' => 'mozilla/5.0 (amigaos; u; amigaos 1.3; en-us; rv:1.8.1.21) gecko/20090303 seamonkey/1.1.15',
       'brand' => 'Amiga',
       'type' => 'desktop',
       'platform' => 
@@ -78,9 +78,9 @@ return array (
         ),
       ),
     ),
-    2796610649 => 
+    3020079713 => 
     array (
-      'name' => 'IBrowse/2.4 (AmigaOS 3.9; 68K)',
+      'name' => 'ibrowse/2.4 (amigaos 3.9; 68k)',
       'brand' => 'Amiga',
       'type' => 'desktop',
       'platform' => 
@@ -102,9 +102,9 @@ return array (
         ),
       ),
     ),
-    507465429 => 
+    1223927657 => 
     array (
-      'name' => 'Mozilla/5.0 (compatible; IBrowse 3.0; AmigaOS4.0)',
+      'name' => 'mozilla/5.0 (compatible; ibrowse 3.0; amigaos4.0)',
       'brand' => 'Amiga',
       'type' => 'desktop',
       'platform' => 
@@ -126,9 +126,9 @@ return array (
         ),
       ),
     ),
-    3056054538 => 
+    2467930730 => 
     array (
-      'name' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.64 Safari/537.36',
+      'name' => 'mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/537.36 (khtml, like gecko) chrome/46.0.2490.64 safari/537.36',
       'brand' => 'Apple',
       'type' => 'desktop',
       'platform' => 
@@ -155,9 +155,9 @@ return array (
         ),
       ),
     ),
-    1859292582 => 
+    4095222493 => 
     array (
-      'name' => 'Mozilla/5.0 ArchLinux (X11; U; Linux x86_64; en-US) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30',
+      'name' => 'mozilla/5.0 archlinux (x11; u; linux x86_64; en-us) applewebkit/534.30 (khtml, like gecko) chrome/12.0.742.100 safari/534.30',
       'brand' => 'Arch',
       'type' => 'desktop',
       'platform' => 
@@ -184,9 +184,9 @@ return array (
         ),
       ),
     ),
-    2209767499 => 
+    652647940 => 
     array (
-      'name' => 'Mozilla/5.0 (X11; Arch Linux i686; rv:2.0) Gecko/20110321 Firefox/4.0',
+      'name' => 'mozilla/5.0 (x11; arch linux i686; rv:2.0) gecko/20110321 firefox/4.0',
       'brand' => 'Arch',
       'type' => 'desktop',
       'platform' => 
@@ -208,9 +208,9 @@ return array (
         ),
       ),
     ),
-    1569961580 => 
+    1692213667 => 
     array (
-      'name' => 'Mozilla/5 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML like Gecko) Arch Linux Firefox/23.0 Xfce',
+      'name' => 'mozilla/5 (x11; linux x86_64) applewebkit/537.4 (khtml like gecko) arch linux firefox/23.0 xfce',
       'brand' => 'Arch',
       'type' => 'desktop',
       'platform' => 
@@ -232,9 +232,9 @@ return array (
         ),
       ),
     ),
-    1139972993 => 
+    2064515351 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; U; Android 3.2.1; en-us; A100 Build/HTK55D) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+      'name' => 'mozilla/5.0 (linux; u; android 3.2.1; en-us; a100 build/htk55d) applewebkit/534.13 (khtml, like gecko) version/4.0 safari/534.13',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -259,9 +259,9 @@ return array (
         'priority' => 20,
       ),
     ),
-    3992831128 => 
+    981862716 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; U; Android 4.1; en-us; A110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+      'name' => 'mozilla/5.0 (linux; u; android 4.1; en-us; a110 build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -282,9 +282,9 @@ return array (
         'version' => '4.0',
       ),
     ),
-    871721029 => 
+    185201363 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; de-de; A200 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+      'name' => 'mozilla/5.0 (linux; u; android 4.0.3; de-de; a200 build/iml74k) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -305,9 +305,9 @@ return array (
         'version' => '4.0',
       ),
     ),
-    2127844752 => 
+    1177079558 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; A500 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+      'name' => 'mozilla/5.0 (linux; u; android 4.0.3; en-us; a500 build/iml74k) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -328,9 +328,9 @@ return array (
         'version' => '4.0',
       ),
     ),
-    1660145029 => 
+    1510954771 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; A501 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+      'name' => 'mozilla/5.0 (linux; u; android 4.0.3; en-us; a501 build/iml74k) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -351,9 +351,9 @@ return array (
         'version' => '4.0',
       ),
     ),
-    3257900663 => 
+    609452472 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.1.1; A701 Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19',
+      'name' => 'mozilla/5.0 (linux; android 4.1.1; a701 build/jro03h) applewebkit/535.19 (khtml, like gecko) chrome/18.0.1025.166  safari/535.19',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -382,9 +382,9 @@ return array (
         ),
       ),
     ),
-    551820941 => 
+    2321246749 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.1.2; B1-A71 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19',
+      'name' => 'mozilla/5.0 (linux; android 4.1.2; b1-a71 build/jzo54k) applewebkit/535.19 (khtml, like gecko) chrome/18.0.1025.166  safari/535.19',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -413,9 +413,9 @@ return array (
         ),
       ),
     ),
-    3577249240 => 
+    73231350 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.1.2; B1-710 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36',
+      'name' => 'mozilla/5.0 (linux; android 4.1.2; b1-710 build/jzo54k) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.72 safari/537.36',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -444,9 +444,9 @@ return array (
         ),
       ),
     ),
-    2099259460 => 
+    306188400 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.2.2; A1-810 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31',
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; a1-810 build/jdq39) applewebkit/537.31 (khtml, like gecko) chrome/26.0.1410.58 safari/537.31',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -475,9 +475,9 @@ return array (
         ),
       ),
     ),
-    132153347 => 
+    2245429095 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; U; Android 4.2.2; nl-nl; A1-810 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.2; nl-nl; a1-810 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; A1-811 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
       'brand' => 'Acer',
       'type' => 'tablet',
@@ -507,9 +507,9 @@ return array (
         ),
       ),
     ),
-    2018118894 => 
+    649903377 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.2.2; A3-A10 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Safari/537.36',
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; a3-a10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/32.0.1700.99 safari/537.36',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -538,9 +538,9 @@ return array (
         ),
       ),
     ),
-    2335106587 => 
+    152625535 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; A1-811 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.2; de-de; a1-811 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -569,9 +569,9 @@ return array (
         ),
       ),
     ),
-    1046114283 => 
+    1637599307 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.2.2; A1-830 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Safari/537.36',
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; a1-830 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/35.0.1916.141 safari/537.36',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -600,9 +600,9 @@ return array (
         ),
       ),
     ),
-    606857979 => 
+    2003681514 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.2.2; A3-A11 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36',
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; a3-a11 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/34.0.1847.114 safari/537.36',
       'brand' => 'Acer',
       'type' => 'tablet',
       'platform' => 
@@ -631,9 +631,9 @@ return array (
         ),
       ),
     ),
-    1410359571 => 
+    2307200758 => 
     array (
-      'name' => 'Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X; en-us) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/21.0.1180.80 Mobile/9B206 Safari/7534.48.3 (6FF046A0-1BC4-4E7D-8A9D-6BF17622A123)',
+      'name' => 'mozilla/5.0 (ipad; cpu os 5_1_1 like mac os x; en-us) applewebkit/534.46.0 (khtml, like gecko) crios/21.0.1180.80 mobile/9b206 safari/7534.48.3 (6ff046a0-1bc4-4e7d-8a9d-6bf17622a123)',
       'brand' => 'Apple',
       'type' => 'tablet',
       'platform' => 
@@ -657,9 +657,9 @@ return array (
         ),
       ),
     ),
-    4046880317 => 
+    2986639756 => 
     array (
-      'name' => 'Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25',
+      'name' => 'mozilla/5.0 (ipad; cpu os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a403 safari/8536.25',
       'brand' => 'Apple',
       'type' => 'tablet',
       'platform' => 
@@ -683,9 +683,9 @@ return array (
         ),
       ),
     ),
-    3580122540 => 
+    1109118953 => 
     array (
-      'name' => 'Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5',
+      'name' => 'mozilla/5.0 (ipad; u; cpu os 4_2_1 like mac os x; en-us) applewebkit/533.17.9 (khtml, like gecko) version/5.0.2 mobile/8c148 safari/6533.18.5',
       'brand' => 'Apple',
       'type' => 'tablet',
       'platform' => 
@@ -709,9 +709,9 @@ return array (
         ),
       ),
     ),
-    3566017927 => 
+    3907472330 => 
     array (
-      'name' => 'Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10',
+      'name' => 'mozilla/5.0 (ipad; u; cpu os 3_2 like mac os x; en-us) applewebkit/531.21.10 (khtml, like gecko) version/4.0.4 mobile/7b334b safari/531.21.10',
       'brand' => 'Apple',
       'type' => 'tablet',
       'platform' => 
@@ -735,9 +735,9 @@ return array (
         ),
       ),
     ),
-    3164916216 => 
+    3609906791 => 
     array (
-      'name' => 'Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Coast/1.0.2.62956 Mobile/10B329 Safari/7534.48.3',
+      'name' => 'mozilla/5.0 (ipad; cpu os 6_1_3 like mac os x) applewebkit/536.26 (khtml, like gecko) coast/1.0.2.62956 mobile/10b329 safari/7534.48.3',
       'brand' => 'Apple',
       'type' => 'tablet',
       'platform' => 
@@ -761,9 +761,9 @@ return array (
         ),
       ),
     ),
-    10906028 => 
+    3231440108 => 
     array (
-      'name' => 'Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53',
+      'name' => 'mozilla/5.0 (ipad; cpu os 7_0 like mac os x) applewebkit/537.51.1 (khtml, like gecko) version/7.0 mobile/11a465 safari/9537.53',
       'brand' => 'Apple',
       'type' => 'tablet',
       'platform' => 
@@ -787,9 +787,9 @@ return array (
         ),
       ),
     ),
-    139632407 => 
+    4236102187 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19',
+      'name' => 'mozilla/5.0 (linux; android 4.1.1; nexus 7 build/jro03d) applewebkit/535.19 (khtml, like gecko) chrome/18.0.1025.166  safari/535.19',
       'brand' => 'Google',
       'type' => 'tablet',
       'platform' => 
@@ -813,9 +813,9 @@ return array (
         ),
       ),
     ),
-    3529884276 => 
+    3823653174 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.2; Nexus 7 Build/JOP40C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19',
+      'name' => 'mozilla/5.0 (linux; android 4.2; nexus 7 build/jop40c) applewebkit/535.19 (khtml, like gecko) chrome/18.0.1025.166 safari/535.19',
       'brand' => 'Google',
       'type' => 'tablet',
       'platform' => 
@@ -839,9 +839,9 @@ return array (
         ),
       ),
     ),
-    3452720376 => 
+    1409378511 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.1.2; Nexus 7 Build/JZ054K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19',
+      'name' => 'mozilla/5.0 (linux; android 4.1.2; nexus 7 build/jz054k) applewebkit/535.19 (khtml, like gecko) chrome/18.0.1025.166 safari/535.19',
       'brand' => 'Google',
       'type' => 'tablet',
       'platform' => 
@@ -865,9 +865,9 @@ return array (
         ),
       ),
     ),
-    3424847834 => 
+    1584429073 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36',
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.72 safari/537.36',
       'brand' => 'Google',
       'type' => 'tablet',
       'platform' => 
@@ -891,9 +891,9 @@ return array (
         ),
       ),
     ),
-    3570089311 => 
+    552391556 => 
     array (
-      'name' => 'Mozilla/5.0 (Linux; U; Android; en_us; Nexus 7 Build/) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 NetFrontLifeBrowser/2.3 Mobile (Dragonfruit)',
+      'name' => 'mozilla/5.0 (linux; u; android; en_us; nexus 7 build/) applewebkit/530.17 (khtml, like gecko) version/4.0 netfrontlifebrowser/2.3 mobile (dragonfruit)',
       'brand' => 'Google',
       'type' => 'tablet',
       'platform' => 
@@ -915,9 +915,9 @@ return array (
         ),
       ),
     ),
-    448760864 => 
+    2059741632 => 
     array (
-      'name' => 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240',
+      'name' => 'mozilla/5.0 (windows nt 10.0) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 safari/537.36 edge/12.10240',
       'brand' => 'Lenovo Yoga',
       'type' => 'tablet',
       'platform' => 
@@ -949,7 +949,7 @@ return array (
         ),
       ),
     ),
-    693883507 => 
+    2730524825 => 
     array (
       'name' => '360Spider',
       'type' => 'bot',
@@ -961,7 +961,7 @@ return array (
         'url' => '',
       ),
     ),
-    3221059249 => 
+    542997311 => 
     array (
       'name' => '360Spider',
       'ref' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider',
@@ -974,7 +974,7 @@ return array (
         'url' => '',
       ),
     ),
-    788261597 => 
+    2087370118 => 
     array (
       'name' => '360Spider',
       'ref' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider',
@@ -1000,7 +1000,7 @@ return array (
         'url' => '',
       ),
     ),
-    531343918 => 
+    1575024644 => 
     array (
       'name' => 'Aboundexbot',
       'type' => 'bot',
@@ -1012,7 +1012,7 @@ return array (
         'url' => 'http://www.aboundex.com',
       ),
     ),
-    596212422 => 
+    2404049725 => 
     array (
       'name' => 'Acoon',
       'type' => 'bot',
@@ -1024,7 +1024,7 @@ return array (
         'url' => 'http://www.acoon.de',
       ),
     ),
-    1822058694 => 
+    437509314 => 
     array (
       'name' => 'AddThis',
       'type' => 'bot',
@@ -1036,7 +1036,7 @@ return array (
         'url' => 'http://www.clearspring.com',
       ),
     ),
-    856132219 => 
+    2456353329 => 
     array (
       'name' => 'aHrefs',
       'type' => 'bot',
@@ -1048,20 +1048,7 @@ return array (
         'url' => 'http://ahrefs.com/robot',
       ),
     ),
-    1984963001 => 
-    array (
-      'name' => 'aHrefs',
-      'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
-      'type' => 'bot',
-      'usage' => 'aHrefs',
-      'url' => 'http://ahrefs.com/robot',
-      'owner' => 
-      array (
-        'name' => 'Ahrefs Pte Ltd',
-        'url' => 'http://ahrefs.com/robot',
-      ),
-    ),
-    508350338 => 
+    3611251187 => 
     array (
       'name' => 'aHrefs',
       'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
@@ -1074,7 +1061,20 @@ return array (
         'url' => 'http://ahrefs.com/robot',
       ),
     ),
-    986068177 => 
+    3027654486 => 
+    array (
+      'name' => 'aHrefs',
+      'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
+      'type' => 'bot',
+      'usage' => 'aHrefs',
+      'url' => 'http://ahrefs.com/robot',
+      'owner' => 
+      array (
+        'name' => 'Ahrefs Pte Ltd',
+        'url' => 'http://ahrefs.com/robot',
+      ),
+    ),
+    2731376174 => 
     array (
       'name' => 'aHrefs',
       'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
@@ -1099,7 +1099,7 @@ return array (
         'url' => 'http://www.alexa.com',
       ),
     ),
-    1748361669 => 
+    516654383 => 
     array (
       'name' => 'AmorankSpider',
       'type' => 'bot',
@@ -1111,7 +1111,7 @@ return array (
         'url' => 'http://www.amorank.com',
       ),
     ),
-    1236909972 => 
+    1544938101 => 
     array (
       'name' => 'Apple',
       'type' => 'bot',
@@ -1123,7 +1123,7 @@ return array (
         'url' => 'http://www.apple.com',
       ),
     ),
-    2222551869 => 
+    1695395880 => 
     array (
       'name' => 'Archive.org',
       'type' => 'bot',
@@ -1135,20 +1135,7 @@ return array (
         'url' => 'http://www.archive.org',
       ),
     ),
-    2816710430 => 
-    array (
-      'name' => 'Archive.org',
-      'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
-      'type' => 'bot',
-      'usage' => 'crawler',
-      'url' => 'http://www.archive.org/details/archive.org_bot',
-      'owner' => 
-      array (
-        'name' => 'The Internet Archive',
-        'url' => 'http://www.archive.org',
-      ),
-    ),
-    2225958295 => 
+    167771411 => 
     array (
       'name' => 'Archive.org',
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
@@ -1161,7 +1148,7 @@ return array (
         'url' => 'http://www.archive.org',
       ),
     ),
-    2258662522 => 
+    1130993882 => 
     array (
       'name' => 'Archive.org',
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
@@ -1174,7 +1161,7 @@ return array (
         'url' => 'http://www.archive.org',
       ),
     ),
-    2795595515 => 
+    770368027 => 
     array (
       'name' => 'Archive.org',
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
@@ -1187,7 +1174,7 @@ return array (
         'url' => 'http://www.archive.org',
       ),
     ),
-    290119027 => 
+    2082814597 => 
     array (
       'name' => 'Archive.org',
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
@@ -1200,7 +1187,7 @@ return array (
         'url' => 'http://www.archive.org',
       ),
     ),
-    4107257906 => 
+    551310520 => 
     array (
       'name' => 'Archive.org',
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
@@ -1213,7 +1200,20 @@ return array (
         'url' => 'http://www.archive.org',
       ),
     ),
-    4041753334 => 
+    1852051751 => 
+    array (
+      'name' => 'Archive.org',
+      'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
+      'type' => 'bot',
+      'usage' => 'crawler',
+      'url' => 'http://www.archive.org/details/archive.org_bot',
+      'owner' => 
+      array (
+        'name' => 'The Internet Archive',
+        'url' => 'http://www.archive.org',
+      ),
+    ),
+    1291185171 => 
     array (
       'name' => 'Ask Jeeves',
       'type' => 'bot',
@@ -1225,7 +1225,7 @@ return array (
         'url' => 'http://www.ask.com',
       ),
     ),
-    555801853 => 
+    1499537019 => 
     array (
       'name' => 'Backlink-Ceck.de',
       'type' => 'bot',
@@ -1237,7 +1237,7 @@ return array (
         'url' => 'http://www.backlink-check.de',
       ),
     ),
-    3343103405 => 
+    1974929531 => 
     array (
       'name' => 'BacklinkCrawler',
       'type' => 'bot',
@@ -1249,7 +1249,7 @@ return array (
         'url' => 'http://www.backlinktest.com',
       ),
     ),
-    1294781533 => 
+    3383600750 => 
     array (
       'name' => 'Baidu Spider',
       'type' => 'bot',
@@ -1261,20 +1261,7 @@ return array (
         'url' => 'http://www.baidu.com',
       ),
     ),
-    1650907483 => 
-    array (
-      'name' => 'Baidu Spider',
-      'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
-      'type' => 'bot',
-      'usage' => 'search',
-      'url' => 'http://www.baidu.com/search/spider.htm',
-      'owner' => 
-      array (
-        'name' => 'Baidu',
-        'url' => 'http://www.baidu.com',
-      ),
-    ),
-    3954011295 => 
+    2856734506 => 
     array (
       'name' => 'Baidu Spider',
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
@@ -1287,7 +1274,7 @@ return array (
         'url' => 'http://www.baidu.com',
       ),
     ),
-    324714432 => 
+    3818888813 => 
     array (
       'name' => 'Baidu Spider',
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
@@ -1300,7 +1287,7 @@ return array (
         'url' => 'http://www.baidu.com',
       ),
     ),
-    607054446 => 
+    1545213121 => 
     array (
       'name' => 'Baidu Spider',
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
@@ -1313,7 +1300,7 @@ return array (
         'url' => 'http://www.baidu.com',
       ),
     ),
-    2791765900 => 
+    1623485124 => 
     array (
       'name' => 'Baidu Spider',
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
@@ -1326,7 +1313,7 @@ return array (
         'url' => 'http://www.baidu.com',
       ),
     ),
-    3196817745 => 
+    2106182629 => 
     array (
       'name' => 'Baidu Spider',
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
@@ -1339,7 +1326,20 @@ return array (
         'url' => 'http://www.baidu.com',
       ),
     ),
-    73373531 => 
+    2682050557 => 
+    array (
+      'name' => 'Baidu Spider',
+      'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.baidu.com/search/spider.htm',
+      'owner' => 
+      array (
+        'name' => 'Baidu',
+        'url' => 'http://www.baidu.com',
+      ),
+    ),
+    4192948693 => 
     array (
       'name' => 'BazQux Reader',
       'type' => 'bot',
@@ -1351,7 +1351,7 @@ return array (
         'url' => '',
       ),
     ),
-    111452615 => 
+    634744541 => 
     array (
       'name' => 'BingBot',
       'type' => 'bot',
@@ -1363,7 +1363,7 @@ return array (
         'url' => 'http://www.microsoft.com',
       ),
     ),
-    2243209808 => 
+    3274312709 => 
     array (
       'name' => 'BingBot',
       'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
@@ -1428,7 +1428,7 @@ return array (
         'url' => 'http://www.microsoft.com',
       ),
     ),
-    966368964 => 
+    2617949271 => 
     array (
       'name' => 'BingBot',
       'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
@@ -1441,7 +1441,7 @@ return array (
         'url' => 'http://www.microsoft.com',
       ),
     ),
-    2853841432 => 
+    976112561 => 
     array (
       'name' => 'Blekkobot',
       'type' => 'bot',
@@ -1453,7 +1453,7 @@ return array (
         'url' => 'http://blekko.com',
       ),
     ),
-    658063966 => 
+    4165372003 => 
     array (
       'name' => 'BLEXBot',
       'type' => 'bot',
@@ -1465,7 +1465,7 @@ return array (
         'url' => 'http://webmeup.com',
       ),
     ),
-    1140610131 => 
+    3635160021 => 
     array (
       'name' => 'Bloglovin',
       'type' => 'bot',
@@ -1477,7 +1477,7 @@ return array (
         'url' => '',
       ),
     ),
-    3873043941 => 
+    1891364355 => 
     array (
       'name' => 'Bountii Bot',
       'type' => 'bot',
@@ -1489,7 +1489,7 @@ return array (
         'url' => 'http://bountii.com',
       ),
     ),
-    2304965042 => 
+    2438144586 => 
     array (
       'name' => 'Bountii Bot',
       'type' => 'bot',
@@ -1501,7 +1501,7 @@ return array (
         'url' => 'http://browsershots.org',
       ),
     ),
-    935519175 => 
+    2149784609 => 
     array (
       'name' => 'Analytics SEO Crawler',
       'type' => 'bot',
@@ -1537,7 +1537,7 @@ return array (
         'url' => 'http://www.aboundex.com',
       ),
     ),
-    2326568385 => 
+    1587726926 => 
     array (
       'name' => 'Feedly',
       'type' => 'bot',
@@ -1549,20 +1549,7 @@ return array (
         'url' => 'http://www.feedly.com',
       ),
     ),
-    2992420527 => 
-    array (
-      'name' => 'Feedly',
-      'ref' => 'FeedlyBot/1.0 (http://feedly.com)',
-      'type' => 'bot',
-      'usage' => 'feed',
-      'url' => 'http://www.feedly.com',
-      'owner' => 
-      array (
-        'name' => 'Feedly',
-        'url' => 'http://www.feedly.com',
-      ),
-    ),
-    659106183 => 
+    1906840500 => 
     array (
       'name' => 'Feedly',
       'ref' => 'FeedlyBot/1.0 (http://feedly.com)',
@@ -1575,7 +1562,20 @@ return array (
         'url' => 'http://www.feedly.com',
       ),
     ),
-    3294766636 => 
+    3694262874 => 
+    array (
+      'name' => 'Feedly',
+      'ref' => 'FeedlyBot/1.0 (http://feedly.com)',
+      'type' => 'bot',
+      'usage' => 'feed',
+      'url' => 'http://www.feedly.com',
+      'owner' => 
+      array (
+        'name' => 'Feedly',
+        'url' => 'http://www.feedly.com',
+      ),
+    ),
+    3890367994 => 
     array (
       'name' => 'Genieo Web filter',
       'type' => 'bot',
@@ -1587,7 +1587,7 @@ return array (
         'url' => 'http://www.aboundex.com',
       ),
     ),
-    861490681 => 
+    3758294348 => 
     array (
       'name' => 'Goo',
       'type' => 'bot',
@@ -1599,7 +1599,7 @@ return array (
         'url' => 'http://www.aboundex.com',
       ),
     ),
-    2935090819 => 
+    3225930077 => 
     array (
       'name' => 'Google PageSpeed Insights',
       'type' => 'bot',
@@ -1611,7 +1611,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    1708708451 => 
+    3530438290 => 
     array (
       'name' => 'Gmail Image Proxy',
       'type' => 'bot',
@@ -1623,7 +1623,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    4078425266 => 
+    421095945 => 
     array (
       'name' => 'Googlebot',
       'type' => 'bot',
@@ -1635,20 +1635,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    2139790680 => 
-    array (
-      'name' => 'Googlebot',
-      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
-      'type' => 'bot',
-      'usage' => 'search',
-      'url' => 'http://www.google.com/bot.html',
-      'owner' => 
-      array (
-        'name' => 'Google Inc',
-        'url' => 'http://www.google.com',
-      ),
-    ),
-    74979015 => 
+    3690949103 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1661,7 +1648,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    3719395355 => 
+    465404408 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1674,7 +1661,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    270348489 => 
+    2226983404 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1687,7 +1674,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    3536478932 => 
+    1187811424 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1700,7 +1687,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    1891202947 => 
+    1992267363 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1713,7 +1700,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    725974516 => 
+    3570172724 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1726,7 +1713,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    446203704 => 
+    3583214478 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1739,7 +1726,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    44475768 => 
+    2628480104 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1752,7 +1739,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    340974114 => 
+    1112938470 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1765,7 +1752,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    77767541 => 
+    3039700751 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1778,7 +1765,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    1232700268 => 
+    465721038 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1791,7 +1778,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    3481612680 => 
+    521129897 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1804,7 +1791,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    2154065003 => 
+    878015885 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1817,7 +1804,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    4255133414 => 
+    2408789334 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1830,7 +1817,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    2835114589 => 
+    1563779911 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1843,7 +1830,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    2126875797 => 
+    147824669 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1856,7 +1843,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    1423518827 => 
+    1097909875 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1869,7 +1856,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    3491824334 => 
+    4087836187 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1882,7 +1869,7 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    4009179942 => 
+    3866895293 => 
     array (
       'name' => 'Googlebot',
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
@@ -1895,7 +1882,644 @@ return array (
         'url' => 'http://www.google.com',
       ),
     ),
-    1488008711 => 
+    1744416061 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2729275503 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1949049539 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2533912402 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    4121529146 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2890429641 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    4238638770 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2721106809 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    3718777053 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    3691107247 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    3178044911 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    826968170 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1319042426 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2987027019 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1607402611 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2041329617 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    725335608 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    671093437 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1598243759 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1180995741 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    3150270580 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    9415137 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    38048997 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    869496372 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2544695568 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    3597425896 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    728587454 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    276603772 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    3235670736 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2469869860 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    269864000 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1151284448 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1185343767 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2590572146 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    635192322 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1821591042 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1347955561 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1320441712 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    4289675653 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    1944767538 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    593383151 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2765766683 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    4276638932 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2804797369 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2376237225 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    455708967 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    2956586399 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    845554748 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    878931506 => 
+    array (
+      'name' => 'Googlebot',
+      'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.google.com/bot.html',
+      'owner' => 
+      array (
+        'name' => 'Google Inc',
+        'url' => 'http://www.google.com',
+      ),
+    ),
+    506433618 => 
     array (
       'name' => 'Sogou Spider',
       'type' => 'bot',
@@ -1907,7 +2531,7 @@ return array (
         'url' => 'http://www.sogou.com',
       ),
     ),
-    423877160 => 
+    33874421 => 
     array (
       'name' => 'Sogou Spider',
       'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
@@ -1920,7 +2544,7 @@ return array (
         'url' => 'http://www.sogou.com',
       ),
     ),
-    3047678115 => 
+    2371474181 => 
     array (
       'name' => 'Sogou Spider',
       'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
@@ -1933,7 +2557,7 @@ return array (
         'url' => 'http://www.sogou.com',
       ),
     ),
-    4059953148 => 
+    1119285552 => 
     array (
       'name' => 'Sogou Spider',
       'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
@@ -1946,7 +2570,7 @@ return array (
         'url' => 'http://www.sogou.com',
       ),
     ),
-    514780869 => 
+    2258231206 => 
     array (
       'name' => 'Yahoo! Slurp',
       'type' => 'bot',
@@ -1958,7 +2582,7 @@ return array (
         'url' => 'http://www.yahoo.com',
       ),
     ),
-    3021709615 => 
+    3198477429 => 
     array (
       'name' => 'Yahoo! Slurp',
       'ref' => 'Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp) NOT Firefox/3.5',
@@ -1971,7 +2595,7 @@ return array (
         'url' => 'http://www.yahoo.com',
       ),
     ),
-    3385505415 => 
+    3122363723 => 
     array (
       'name' => 'Yahoo Link Preview',
       'type' => 'bot',
@@ -1983,7 +2607,7 @@ return array (
         'url' => 'http://www.yahoo.com',
       ),
     ),
-    401220224 => 
+    952647716 => 
     array (
       'name' => 'Yahoo Gemini',
       'type' => 'bot',
@@ -1995,7 +2619,7 @@ return array (
         'url' => 'http://www.yahoo.com',
       ),
     ),
-    1404830827 => 
+    3306472341 => 
     array (
       'name' => 'Yandex Bot',
       'type' => 'bot',
@@ -2007,20 +2631,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    235556838 => 
-    array (
-      'name' => 'Yandex Bot',
-      'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
-      'type' => 'bot',
-      'usage' => 'search',
-      'url' => 'http://www.yandex.com/bots',
-      'owner' => 
-      array (
-        'name' => 'Yandex LLC',
-        'url' => 'http://company.yandex.com',
-      ),
-    ),
-    1116417266 => 
+    3991305209 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2033,7 +2644,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    2786216367 => 
+    3559123724 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2046,7 +2657,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    1634070523 => 
+    1312225501 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2059,7 +2670,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    4274658416 => 
+    4196390085 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2072,7 +2683,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    1352644095 => 
+    2757323692 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2085,7 +2696,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    2407765221 => 
+    2433463695 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2098,7 +2709,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    319848177 => 
+    12360045 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2111,7 +2722,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    2611421694 => 
+    2994671291 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2124,7 +2735,7 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    3750960882 => 
+    625218911 => 
     array (
       'name' => 'Yandex Bot',
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
@@ -2137,14 +2748,27 @@ return array (
         'url' => 'http://company.yandex.com',
       ),
     ),
-    2723511675 => 
+    1743382807 => 
+    array (
+      'name' => 'Yandex Bot',
+      'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
+      'type' => 'bot',
+      'usage' => 'search',
+      'url' => 'http://www.yandex.com/bots',
+      'owner' => 
+      array (
+        'name' => 'Yandex LLC',
+        'url' => 'http://company.yandex.com',
+      ),
+    ),
+    617214636 => 
     array (
       'name' => 'iTunes',
       'type' => 'app',
       'version' => '9.1.1',
       'url' => 'http://www.apple.com/itunes/',
     ),
-    2547364277 => 
+    1084679099 => 
     array (
       'name' => 'iTunes',
       'type' => 'app',
@@ -2161,7 +2785,7 @@ return array (
       ),
       'url' => 'http://www.apple.com/itunes/',
     ),
-    2470942401 => 
+    1623789101 => 
     array (
       'name' => 'iTunes',
       'type' => 'app',

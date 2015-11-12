@@ -39,10 +39,12 @@ $userAgents = loadUserAgentsList($pathUserAgents, $types);
  */
 function compileLists(array $userAgents, array &$compiled, array &$priorities) {
     foreach ($userAgents as $userAgent => $meta) {
+        $userAgent = strtolower($userAgent);
         $compiledUserAgent = hexdec(hash(HASH_FUNC, $userAgent));
         echo "Loading $userAgent with $compiledUserAgent...", PHP_EOL;
         if (isset($compiled["userAgents"][$compiledUserAgent])) {
-            throw new \Exception(HASH_FUNC . " collision!");
+            $message = HASH_FUNC . " collision!: user agent: \n $userAgent \n";
+            throw new \Exception($message);
         }
         $compiled["userAgents"][$compiledUserAgent] = array_merge(["name" => $userAgent], $meta);
 
@@ -58,6 +60,7 @@ function compileLists(array $userAgents, array &$compiled, array &$priorities) {
         }
         $priorities["userAgents"][$priority][$compiledUserAgent] = $compiled["userAgents"][$compiledUserAgent];
     }
+
 }
 
 compileLists($userAgents, $compiled, $priorities);
