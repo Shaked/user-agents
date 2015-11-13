@@ -2805,6 +2805,833 @@ return array (
         ),
         'url' => 'http://www.checkmybus.com/',
       ),
+      429312507 => 
+      array (
+        'name' => 'Glass',
+        'type' => 'glass',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      2467453516 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      205055569 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      1639153632 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      1602237177 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      2264702651 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      1881052990 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      2538698341 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      1384932611 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      3605240148 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      2852130246 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      3100627874 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      963487680 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      1867044333 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      1440200598 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+      ),
+      3140367647 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      2338821271 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      2691120838 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+      ),
+      1024480823 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+      ),
+      2005426129 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+      ),
+      2242140364 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+      ),
+      2847490249 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+      ),
+      3971854116 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      1997658861 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      3532676948 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      1619830335 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      36241121 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      216963883 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      21123044 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      123661017 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      3680025283 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      3775554771 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      105219464 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      2072646519 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      3679736483 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+      ),
+      2674867915 => 
+      array (
+        'name' => 'Glass',
+        'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.0.4',
+          'build' => 'IMM76L',
+          'model' => 'XE7',
+        ),
+        'browser' => 
+        array (
+          'name' => 'Android Webkit',
+          'Version' => '4.0',
+        ),
+        'type' => 'glass',
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+      ),
     ),
   ),
 );

@@ -14,3 +14,7 @@ Feel free to help and contribute!
 
 - Support other capabilities to identify such as headers.
 - Platform to add user agents (basic UI for non tech people, simple way to add user agents)
+
+### Open Discussion
+
+- Understand if `app` user agent type is related to `mobile`, `tablet`, `watch`, `tv` etc...
