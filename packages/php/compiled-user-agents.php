@@ -915,6 +915,396 @@ return array (
         ),
       ),
     ),
+    1999036662 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.1; nexus 10 build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/27.0.1453 safari/537.36 pss-webkit-request',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.1',
+        'build' => 'JOP40D',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '27.0.1453',
+        ),
+      ),
+    ),
+    527248929 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/32.0.1700.99 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '32.0.1700.99',
+        ),
+      ),
+    ),
+    3875320892 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66v) applewebkit/537.36 (khtml, like gecko) chrome/28.0.1500.94 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '28.0.1500.94',
+        ),
+      ),
+    ),
+    3814936195 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.93 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.93',
+        ),
+      ),
+    ),
+    1166380752 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.22 (khtml, like gecko) chrome/25.0.1364.169 safari/537.22',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '25.0.1364.169',
+        ),
+      ),
+    ),
+    2464266555 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.136 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.136',
+        ),
+      ),
+    ),
+    2442009458 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.31 (khtml, like gecko) chrome/26.0.1410.58 safari/537.31',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '26.0.1410.58',
+        ),
+      ),
+    ),
+    666468099 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.4; nexus 10 build/ktu84p) applewebkit/537.36 (khtml, like gecko) chrome/35.0.1916.141 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '35.0.1916.141',
+        ),
+      ),
+    ),
+    3904398381 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.166 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.166',
+        ),
+      ),
+    ),
+    2415999155 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/30.0.1599.82 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '30.0.1599.82',
+        ),
+      ),
+    ),
+    1431767386 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/31.0.1650.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '31.0.1650.59',
+        ),
+      ),
+    ),
+    119864204 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '29.0.1547.59',
+        ),
+      ),
+    ),
+    1945960915 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.4; nexus 10 build/ktu84p) applewebkit/537.36 (khtml, like gecko) chrome/36.0.1985.131 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '36.0.1985.131',
+        ),
+      ),
+    ),
+    1780493149 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.4; nexus 10 build/ktu84p) applewebkit/537.36 (khtml, like gecko) chrome/38.0.2125.102 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '38.0.2125.102',
+        ),
+      ),
+    ),
+    4133661058 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/28.0.1500.94 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '28.0.1500.94',
+        ),
+      ),
+    ),
     2059741632 => 
     array (
       'name' => 'mozilla/5.0 (windows nt 10.0) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 safari/537.36 edge/12.10240',
@@ -963,7 +1353,11 @@ return array (
     ),
     542997311 => 
     array (
-      'name' => '360Spider',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (windows nt 6.1) applewebkit/537.1 (khtml, like gecko) chrome/21.0.1180.89 safari/537.1; 360spider',
+        1 => '360Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider',
       'type' => 'bot',
       'usage' => 'search',
@@ -976,7 +1370,11 @@ return array (
     ),
     2087370118 => 
     array (
-      'name' => '360Spider',
+      'name' => 
+      array (
+        0 => 'mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; mddr; .net4.0c; .net4.0e; .net clr 1.1.4322; tablet pc 2.0); 360spider',
+        1 => '360Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider',
       'type' => 'bot',
       'usage' => 'search',
@@ -989,7 +1387,11 @@ return array (
     ),
     2218680048 => 
     array (
-      'name' => '360Spider',
+      'name' => 
+      array (
+        0 => '360spider-image',
+        1 => '360Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider',
       'type' => 'bot',
       'usage' => 'search',
@@ -1050,7 +1452,11 @@ return array (
     ),
     3611251187 => 
     array (
-      'name' => 'aHrefs',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; ahrefsbot/5.0; +http://ahrefs.com/robot/)',
+        1 => 'aHrefs',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
       'type' => 'bot',
       'usage' => 'aHrefs',
@@ -1063,7 +1469,11 @@ return array (
     ),
     3027654486 => 
     array (
-      'name' => 'aHrefs',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; ahrefsbot/5.0; +http://ahrefs.com/robot/) appengine-google; (+http://code.google.com/appengine; appid: s~proxyfile1-hrd)',
+        1 => 'aHrefs',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
       'type' => 'bot',
       'usage' => 'aHrefs',
@@ -1076,7 +1486,11 @@ return array (
     ),
     2731376174 => 
     array (
-      'name' => 'aHrefs',
+      'name' => 
+      array (
+        0 => 'ahrefsbot.feeds v0.1; http://ahrefs.com/',
+        1 => 'aHrefs',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)',
       'type' => 'bot',
       'usage' => 'aHrefs',
@@ -1137,7 +1551,11 @@ return array (
     ),
     167771411 => 
     array (
-      'name' => 'Archive.org',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; special_archiver/3.2.0 +http://www.loc.gov/webarchiving/notice_to_webmasters.html)',
+        1 => 'Archive.org',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
       'type' => 'bot',
       'usage' => 'crawler',
@@ -1150,7 +1568,11 @@ return array (
     ),
     1130993882 => 
     array (
-      'name' => 'Archive.org',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; archive.org_bot; wayback machine live record; +http://archive.org/details/archive.org_bot)',
+        1 => 'Archive.org',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
       'type' => 'bot',
       'usage' => 'crawler',
@@ -1163,7 +1585,11 @@ return array (
     ),
     770368027 => 
     array (
-      'name' => 'Archive.org',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; archive.org_bot/3.3.0 +http://pandora.nla.gov.au/crawl.html)',
+        1 => 'Archive.org',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
       'type' => 'bot',
       'usage' => 'crawler',
@@ -1176,7 +1602,11 @@ return array (
     ),
     2082814597 => 
     array (
-      'name' => 'Archive.org',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; archive.org_bot; archive-it; +http://archive-it.org/files/site-owners.html)',
+        1 => 'Archive.org',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
       'type' => 'bot',
       'usage' => 'crawler',
@@ -1189,7 +1619,11 @@ return array (
     ),
     551310520 => 
     array (
-      'name' => 'Archive.org',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)',
+        1 => 'Archive.org',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
       'type' => 'bot',
       'usage' => 'crawler',
@@ -1202,7 +1636,11 @@ return array (
     ),
     1852051751 => 
     array (
-      'name' => 'Archive.org',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; heritrix/3.1.2-snapshot-20131029-0036 +http://archive.org/details/archive.org_bot)',
+        1 => 'Archive.org',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)',
       'type' => 'bot',
       'usage' => 'crawler',
@@ -1263,7 +1701,11 @@ return array (
     ),
     2856734506 => 
     array (
-      'name' => 'Baidu Spider',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux;u;android 2.3.7;zh-cn;) applewebkit/533.1 (khtml,like gecko) version/4.0 mobile safari/533.1 (compatible; +http://www.baidu.com/search/spider.html)',
+        1 => 'Baidu Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
       'type' => 'bot',
       'usage' => 'search',
@@ -1276,7 +1718,11 @@ return array (
     ),
     3818888813 => 
     array (
-      'name' => 'Baidu Spider',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (windows; u; windows nt 5.1; zh-cn; rv:1.9.2.8;baidu transcoder) gecko/20100722 firefox/3.6.8 ( .net clr 3.5.30729)',
+        1 => 'Baidu Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
       'type' => 'bot',
       'usage' => 'search',
@@ -1289,7 +1735,11 @@ return array (
     ),
     1545213121 => 
     array (
-      'name' => 'Baidu Spider',
+      'name' => 
+      array (
+        0 => 'mozilla/4.0 (compatible; msie 6.0; windows nt 5.0; baidu transcoder;)',
+        1 => 'Baidu Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
       'type' => 'bot',
       'usage' => 'search',
@@ -1302,7 +1752,11 @@ return array (
     ),
     1623485124 => 
     array (
-      'name' => 'Baidu Spider',
+      'name' => 
+      array (
+        0 => 'baiduspider-image+(+http://www.baidu.com/search/spider.htm)',
+        1 => 'Baidu Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
       'type' => 'bot',
       'usage' => 'search',
@@ -1315,7 +1769,11 @@ return array (
     ),
     2106182629 => 
     array (
-      'name' => 'Baidu Spider',
+      'name' => 
+      array (
+        0 => 'baiduspider+(+http://www.baidu.com/search/spider.htm)',
+        1 => 'Baidu Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
       'type' => 'bot',
       'usage' => 'search',
@@ -1328,7 +1786,11 @@ return array (
     ),
     2682050557 => 
     array (
-      'name' => 'Baidu Spider',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+        1 => 'Baidu Spider',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search',
       'type' => 'bot',
       'usage' => 'search',
@@ -1365,7 +1827,11 @@ return array (
     ),
     3274312709 => 
     array (
-      'name' => 'BingBot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+        1 => 'BingBot',
+      ),
       'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
       'type' => 'bot',
       'usage' => 'search',
@@ -1378,7 +1844,11 @@ return array (
     ),
     2100471819 => 
     array (
-      'name' => 'BingBot',
+      'name' => 
+      array (
+        0 => 'msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)',
+        1 => 'BingBot',
+      ),
       'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
       'type' => 'bot',
       'usage' => 'search',
@@ -1391,7 +1861,11 @@ return array (
     ),
     4239134739 => 
     array (
-      'name' => 'BingBot',
+      'name' => 
+      array (
+        0 => 'msnbot/2.0b v1394720947.6703',
+        1 => 'BingBot',
+      ),
       'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
       'type' => 'bot',
       'usage' => 'search',
@@ -1404,7 +1878,11 @@ return array (
     ),
     1844967109 => 
     array (
-      'name' => 'BingBot',
+      'name' => 
+      array (
+        0 => 'msnbot/1.1 (+http://search.msn.com/msnbot.htm)',
+        1 => 'BingBot',
+      ),
       'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
       'type' => 'bot',
       'usage' => 'search',
@@ -1417,7 +1895,11 @@ return array (
     ),
     712284802 => 
     array (
-      'name' => 'BingBot',
+      'name' => 
+      array (
+        0 => 'msnbot/2.0b (+http://search.msn.com/msnbot.htm)',
+        1 => 'BingBot',
+      ),
       'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
       'type' => 'bot',
       'usage' => 'search',
@@ -1430,7 +1912,11 @@ return array (
     ),
     2617949271 => 
     array (
-      'name' => 'BingBot',
+      'name' => 
+      array (
+        0 => 'msnbot-newsblogs/2.0b (+http://search.msn.com/msnbot.htm)',
+        1 => 'BingBot',
+      ),
       'ref' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b',
       'type' => 'bot',
       'usage' => 'search',
@@ -1551,7 +2037,11 @@ return array (
     ),
     1906840500 => 
     array (
-      'name' => 'Feedly',
+      'name' => 
+      array (
+        0 => 'feedlyapp/1.0 (http://www.feedly.com)',
+        1 => 'Feedly',
+      ),
       'ref' => 'FeedlyBot/1.0 (http://feedly.com)',
       'type' => 'bot',
       'usage' => 'feed',
@@ -1564,7 +2054,11 @@ return array (
     ),
     3694262874 => 
     array (
-      'name' => 'Feedly',
+      'name' => 
+      array (
+        0 => 'metafeedly/1.0 (http://www.feedly.com)',
+        1 => 'Feedly',
+      ),
       'ref' => 'FeedlyBot/1.0 (http://feedly.com)',
       'type' => 'bot',
       'usage' => 'feed',
@@ -1637,7 +2131,11 @@ return array (
     ),
     3690949103 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'googlebot/nutch-1.7',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1650,7 +2148,11 @@ return array (
     ),
     465404408 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 applewebkit/537.36 (khtml, like gecko; compatible; googlebot/2.1; +http://www.google.com/bot.html) safari/537.36',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1663,7 +2165,11 @@ return array (
     ),
     2226983404 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; googlebot/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1676,7 +2182,11 @@ return array (
     ),
     1187811424 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1689,7 +2199,11 @@ return array (
     ),
     1992267363 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'googlebot-image/1.0',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1702,7 +2216,11 @@ return array (
     ),
     3570172724 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'googlebot-video/1.0',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1715,7 +2233,11 @@ return array (
     ),
     3583214478 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'googlebot (gocrawl v0.4)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1728,7 +2250,11 @@ return array (
     ),
     2628480104 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'googlebot-news (2.3.3, ruby 1.9.3 (2013-11-22))',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1741,7 +2267,11 @@ return array (
     ),
     1112938470 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible) feedfetcher-google;(+http://www.google.com/feedfetcher.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1754,7 +2284,11 @@ return array (
     ),
     3039700751 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'feedfetcher-google; (+http://www.google.com/feedfetcher.html; 2 subscribers; feed-id=17860707833818568603)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1767,7 +2301,11 @@ return array (
     ),
     465721038 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'feedfetcher-google; (+http://www.google.com/feedfetcher.html; 19 subscribers; feed-id=13965549748850348809)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1780,7 +2318,11 @@ return array (
     ),
     521129897 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'feedfetcher-google; (+http://www.google.com/feedfetcher.html; 375 subscribers; feed-id=15381863289700640853)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1793,7 +2335,11 @@ return array (
     ),
     878015885 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (windows nt 6.1; rv:6.0) gecko/20110814 firefox/6.0 google (+https://developers.google.com/+/web/snippet/)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1806,7 +2352,11 @@ return array (
     ),
     2408789334 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'googleproducer; (+http://goo.gl/7y4sx)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1819,7 +2369,11 @@ return array (
     ),
     1563779911 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko; google web preview) chrome/27.0.1453 safari/537.36',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1832,7 +2386,11 @@ return array (
     ),
     147824669 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'adsbot-google-mobile (+http://www.google.com/mobile/adsbot.html) mozilla (iphone; u; cpu iphone os 3 0 like mac os x) applewebkit (khtml, like gecko) mobile safari',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1845,7 +2403,11 @@ return array (
     ),
     1097909875 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'adsbot-google (+http://www.google.com/adsbot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1858,7 +2420,11 @@ return array (
     ),
     4087836187 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mediapartners-google',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1871,7 +2437,11 @@ return array (
     ),
     3866895293 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1884,7 +2454,11 @@ return array (
     ),
     1744416061 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobile/2.1; http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1897,7 +2471,11 @@ return array (
     ),
     2729275503 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0_1 like mac os x) applewebkit/537.4 (khtml, like gecko; google page speed insights) version/6.0 mobile/10a525 safari/8536.25 googlebot/2.1',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1910,7 +2488,11 @@ return array (
     ),
     1949049539 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376esafari/8536.25 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1923,7 +2505,11 @@ return array (
     ),
     2533912402 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1936,7 +2522,11 @@ return array (
     ),
     4121529146 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/537.36 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1949,7 +2539,11 @@ return array (
     ),
     2890429641 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 8_3 like mac os x) applewebkit/537.36 (khtml, like gecko) version/8.0 mobile/12f70 safari/600.1.4 (compatible; googlebot/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1962,7 +2556,11 @@ return array (
     ),
     4238638770 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 8_3 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12f70 safari/600.1.4(compatible; googlebot/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1975,7 +2573,11 @@ return array (
     ),
     2721106809 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot/2.1; http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -1988,7 +2590,11 @@ return array (
     ),
     3718777053 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot-mobile/2.1; http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2001,7 +2607,11 @@ return array (
     ),
     3691107247 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot/2.1; +http://www.google.com/bot.html) asproxy/5.5.0',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2014,7 +2624,11 @@ return array (
     ),
     3178044911 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0_1 like mac os x) applewebkit/537.36 (khtml, like gecko; google page speed insights) version/6.0 mobile/10a525 safari/8536.25 googlebot/2.1',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2027,7 +2641,11 @@ return array (
     ),
     826968170 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os) (compatible; googlebot-mobile/2.1; http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2040,7 +2658,11 @@ return array (
     ),
     1319042426 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 5_1_1 like mac os x; en) applewebkit/534.46.0 (khtml, like gecko) crios/19.0.1084.60 mobile/9b206 safari/7534.48.3 (compatible; googlebot-mobile/2.1; +http://w',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2053,7 +2675,11 @@ return array (
     ),
     2987027019 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 8_3 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12f70 safari/600.1.4 (compatible; googlebot/2.1; http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2066,7 +2692,11 @@ return array (
     ),
     1607402611 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 8_3 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12f70 safari/600.1.4 (compatible; googlebot/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2079,7 +2709,11 @@ return array (
     ),
     2041329617 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot/2.kit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googleb',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2092,7 +2726,11 @@ return array (
     ),
     725335608 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0_1 like mac os x) a like gecko; google page speed insights) version/6.0 mobile/10a525 safari/8536.25 googlebot/2.1',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2105,7 +2743,11 @@ return array (
     ),
     671093437 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot/2.1; +http://www.google.com/bremote_programs_files//\'javascript:removefromcart(/%22suite_474/%22',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2118,7 +2760,11 @@ return array (
     ),
     1598243759 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.crawl-66-249-74-23.googlebot.com - - [25/feb/2013:06:30:22 -0500]',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2131,7 +2777,11 @@ return array (
     ),
     1180995741 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobil',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2144,7 +2794,11 @@ return array (
     ),
     3150270580 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mo',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2157,7 +2811,11 @@ return array (
     ),
     9415137 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot-mo',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2170,7 +2828,11 @@ return array (
     ),
     38048997 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobi',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2183,7 +2845,11 @@ return array (
     ),
     869496372 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 3.0like mac os x; en-us;compatible;googlebot/2.1;http://www.google.com/bot.html;aplewebkit/528.18(khtml,likegecko)version/4.0 movile/7a341 untrusted/1.0',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2196,7 +2862,11 @@ return array (
     ),
     2544695568 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2209,7 +2879,11 @@ return array (
     ),
     3597425896 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobile/2.1; +h',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2222,7 +2896,11 @@ return array (
     ),
     728587454 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobile/2.1; +ht',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2235,7 +2913,11 @@ return array (
     ),
     276603772 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobile/2.1; +http://www.google.com/bo',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2248,7 +2930,11 @@ return array (
     ),
     3235670736 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.htm',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2261,7 +2947,11 @@ return array (
     ),
     2469869860 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot-mobile/2.1; +h',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2274,7 +2964,11 @@ return array (
     ),
     269864000 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os 4_1 like mac os x; en-us) applewebkit/532.9 (khtml, like gecko) version/4.0.5 mobile/8b117 safari/6531.22.7 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2287,7 +2981,11 @@ return array (
     ),
     1151284448 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; cpu iphone os 6_0 like mac os x) applewebkit/536.26 (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.ht',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2300,7 +2998,11 @@ return array (
     ),
     1185343767 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (iphone; u; cpu iphone os) (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2313,7 +3015,11 @@ return array (
     ),
     2590572146 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'docomo/2.0 n905i (c100;tb;w24h16) (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2326,7 +3032,11 @@ return array (
     ),
     635192322 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'docomo/2.0 n905i(c100;tb;w24h16) (compatible; googlebot-mobile/2.1; http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2339,7 +3049,11 @@ return array (
     ),
     1821591042 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'docomo/2.0 n905i(c100;tb;w24h16) (compatible; googlebot-mobile/2.1; +hlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2352,7 +3066,11 @@ return array (
     ),
     1347955561 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'docomo/2.0 n905i(c100;tb;w24h16) (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2365,7 +3083,11 @@ return array (
     ),
     1320441712 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'docomo//2.0 n905i(c100;tb;w24h16) (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2378,7 +3100,11 @@ return array (
     ),
     4289675653 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2391,7 +3117,11 @@ return array (
     ),
     1944767538 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2404,7 +3134,11 @@ return array (
     ),
     593383151 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2417,7 +3151,11 @@ return array (
     ),
     2765766683 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googcrawl-66-249-74-152.googlebot.com - - [07/jan/2013:03:21:29 -0500]',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2430,7 +3168,11 @@ return array (
     ),
     4276638932 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mob',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2443,7 +3185,11 @@ return array (
     ),
     2804797369 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; http://www.google.com/bot.html) [html2wml/0.4.11 libwww-perl/5',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2456,7 +3202,11 @@ return array (
     ),
     2376237225 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; +http://www.goo173.199.115.147.ahrefs.com - - [11/mar/2013:01:48:47 -0400]',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2469,7 +3219,11 @@ return array (
     ),
     455708967 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.ht',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2482,7 +3236,11 @@ return array (
     ),
     2956586399 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; +http://www.google.',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2495,7 +3253,11 @@ return array (
     ),
     845554748 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; +http://www.google.com/b',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2508,7 +3270,11 @@ return array (
     ),
     878931506 => 
     array (
-      'name' => 'Googlebot',
+      'name' => 
+      array (
+        0 => 'hideme.mobi browser samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)',
+        1 => 'Googlebot',
+      ),
       'ref' => 'Googlebot/2.1 (http://www.googlebot.com/bot.html)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2533,7 +3299,11 @@ return array (
     ),
     33874421 => 
     array (
-      'name' => 'Sogou Spider',
+      'name' => 
+      array (
+        0 => 'sogou inst spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
+        1 => 'Sogou Spider',
+      ),
       'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2546,7 +3316,11 @@ return array (
     ),
     2371474181 => 
     array (
-      'name' => 'Sogou Spider',
+      'name' => 
+      array (
+        0 => 'sogou pic spider/3.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
+        1 => 'Sogou Spider',
+      ),
       'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2559,7 +3333,11 @@ return array (
     ),
     1119285552 => 
     array (
-      'name' => 'Sogou Spider',
+      'name' => 
+      array (
+        0 => 'new-sogou-spider/1.0 (compatible; msie 5.5; windows 98)',
+        1 => 'Sogou Spider',
+      ),
       'ref' => 'Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2584,7 +3362,11 @@ return array (
     ),
     3198477429 => 
     array (
-      'name' => 'Yahoo! Slurp',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yahoo! slurp; http://help.yahoo.com/help/us/ysearch/slurp)',
+        1 => 'Yahoo! Slurp',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp) NOT Firefox/3.5',
       'type' => 'bot',
       'usage' => 'search',
@@ -2633,7 +3415,11 @@ return array (
     ),
     3991305209 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandexantivirus/2.0; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2646,7 +3432,11 @@ return array (
     ),
     3559123724 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandexdirect/3.0; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2659,7 +3449,11 @@ return array (
     ),
     1312225501 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandexbot/3.0; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2672,7 +3466,11 @@ return array (
     ),
     4196390085 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandexblogs/0.99; robot; b; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2685,7 +3483,11 @@ return array (
     ),
     2757323692 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandexmetrika/2.0; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2698,7 +3500,11 @@ return array (
     ),
     2433463695 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandeximageresizer/2.0; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2711,7 +3517,11 @@ return array (
     ),
     12360045 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandexfavicons/1.0; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2724,7 +3534,11 @@ return array (
     ),
     2994671291 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandexnewslinks; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2737,7 +3551,11 @@ return array (
     ),
     625218911 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; yandexnews/3.0; +http://yandex.com/bots)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2750,7 +3568,11 @@ return array (
     ),
     1743382807 => 
     array (
-      'name' => 'Yandex Bot',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (compatible; linux i686; yandex.gazeta bot/1.0; +http://gazeta.yandex.ru)',
+        1 => 'Yandex Bot',
+      ),
       'ref' => 'Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)',
       'type' => 'bot',
       'usage' => 'search',
@@ -2821,14 +3643,22 @@ return array (
     ),
     2467453516 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe12) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE12',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -2844,14 +3674,22 @@ return array (
     ),
     205055569 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe12.1) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE12.1',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -2867,14 +3705,22 @@ return array (
     ),
     1639153632 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe11) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE11',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -2890,14 +3736,22 @@ return array (
     ),
     1602237177 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe17) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE17',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -2913,14 +3767,22 @@ return array (
     ),
     2264702651 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe10) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE10',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -2936,14 +3798,22 @@ return array (
     ),
     1881052990 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe9) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE9',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -2959,14 +3829,22 @@ return array (
     ),
     2538698341 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe8) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE8',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -2982,14 +3860,22 @@ return array (
     ),
     1384932611 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe20.1) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE20.1',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3005,14 +3891,22 @@ return array (
     ),
     3605240148 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe17.1) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE17.1',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3028,14 +3922,22 @@ return array (
     ),
     2852130246 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe16.2) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE16.2',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3051,14 +3953,22 @@ return array (
     ),
     3100627874 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe16) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE16)',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3074,14 +3984,22 @@ return array (
     ),
     963487680 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe10.2) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE10.2',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3097,14 +4015,22 @@ return array (
     ),
     1867044333 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe8.3) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE8.3',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3120,18 +4046,39 @@ return array (
     ),
     1440200598 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; android 4.4.2; glass 1 build/xrx13b; xe22; 1511057; user; release-keys; 48cad1880fd0f82644ef86f5a7f6535b) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 mobile safari/537.36',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'version' => 
+        array (
+          0 => '4.4.2',
+          1 => '4.0.4',
+        ),
+        'build' => 
+        array (
+          0 => 'XRX13B',
+          1 => 'IMM76L',
+        ),
+        'model' => 
+        array (
+          0 => 'XE22',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
-        'version' => '4.0.4',
-        'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'browser' => 
       array (
-        'name' => 'Android Webkit',
+        'name' => 
+        array (
+          0 => 'Chrome',
+          1 => 'Android Webkit',
+        ),
+        'version' => '30.0.0.0',
         'Version' => '4.0',
       ),
       'type' => 'glass',
@@ -3143,14 +4090,26 @@ return array (
     ),
     3140367647 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/xrr88) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'build' => 
+        array (
+          0 => 'XRR88',
+          1 => 'IMM76L',
+        ),
+        'model' => 
+        array (
+          0 => '',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
-        'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3166,14 +4125,26 @@ return array (
     ),
     2338821271 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/xrs92) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'build' => 
+        array (
+          0 => 'XRS92',
+          1 => 'IMM76L',
+        ),
+        'model' => 
+        array (
+          0 => '',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
-        'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3189,18 +4160,39 @@ return array (
     ),
     2691120838 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; android 4.4.2; glass 1 build/xrw85; xe21.3; 1460130; user; release-keys; d4baf10bb6dea9da4c0d249f838b9bfd) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 mobile safari/537.36',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'version' => 
+        array (
+          0 => '4.4.2',
+          1 => '4.0.4',
+        ),
+        'build' => 
+        array (
+          0 => 'XRW85',
+          1 => 'IMM76L',
+        ),
+        'model' => 
+        array (
+          0 => 'XE21.3',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
-        'version' => '4.0.4',
-        'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'browser' => 
       array (
-        'name' => 'Android Webkit',
+        'name' => 
+        array (
+          0 => 'Chrome',
+          1 => 'Android Webkit',
+        ),
+        'version' => '30.0.0.0',
         'Version' => '4.0',
       ),
       'type' => 'glass',
@@ -3212,18 +4204,39 @@ return array (
     ),
     1024480823 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; android 4.4.2; glass 1 build/xrw85; xe21.4; 1461420; userdebug; dev-keys; c7ed69b136f0fb098798f8d5bd577e36) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 mobile safari/537.36',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'version' => 
+        array (
+          0 => '4.4.2',
+          1 => '4.0.4',
+        ),
+        'build' => 
+        array (
+          0 => 'XRW85',
+          1 => 'IMM76L',
+        ),
+        'model' => 
+        array (
+          0 => 'XE21.4',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
-        'version' => '4.0.4',
-        'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'browser' => 
       array (
-        'name' => 'Android Webkit',
+        'name' => 
+        array (
+          0 => 'Chrome',
+          1 => 'Android Webkit',
+        ),
+        'version' => '30.0.0.0',
         'Version' => '4.0',
       ),
       'type' => 'glass',
@@ -3235,18 +4248,39 @@ return array (
     ),
     2005426129 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; android 4.4.2; glass 1 build/xrw85; xe21.3; 1460130; userdebug; dev-keys; d6eb759a25df798d900172a0997bb2a0) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 mobile safari/537.36',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'version' => 
+        array (
+          0 => '4.4.2',
+          1 => '4.0.4',
+        ),
+        'build' => 
+        array (
+          0 => 'XRW85',
+          1 => 'IMM76L',
+        ),
+        'model' => 
+        array (
+          0 => 'XE21.3',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
-        'version' => '4.0.4',
-        'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'browser' => 
       array (
-        'name' => 'Android Webkit',
+        'name' => 
+        array (
+          0 => 'Chrome',
+          1 => 'Android Webkit',
+        ),
+        'version' => '30.0.0.0',
         'Version' => '4.0',
       ),
       'type' => 'glass',
@@ -3258,18 +4292,39 @@ return array (
     ),
     2242140364 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; android 4.4.2; glass 1 build/xrv49) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 mobile safari/537.36',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'version' => 
+        array (
+          0 => '4.4.2',
+          1 => '4.0.4',
+        ),
+        'build' => 
+        array (
+          0 => 'XRV49',
+          1 => 'IMM76L',
+        ),
+        'model' => 
+        array (
+          0 => '',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
-        'version' => '4.0.4',
-        'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'browser' => 
       array (
-        'name' => 'Android Webkit',
+        'name' => 
+        array (
+          0 => 'Chrome',
+          1 => 'Android Webkit',
+        ),
+        'version' => '30.0.0.0',
         'Version' => '4.0',
       ),
       'type' => 'glass',
@@ -3281,18 +4336,39 @@ return array (
     ),
     2847490249 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; android 4.4.2; glass 1 build/xrv39) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 mobile safari/537.36',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'version' => 
+        array (
+          0 => '4.4.2',
+          1 => '4.0.4',
+        ),
+        'build' => 
+        array (
+          0 => 'XRV39',
+          1 => 'IMM76L',
+        ),
+        'model' => 
+        array (
+          0 => '',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
-        'version' => '4.0.4',
-        'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'browser' => 
       array (
-        'name' => 'Android Webkit',
+        'name' => 
+        array (
+          0 => 'Chrome',
+          1 => 'Android Webkit',
+        ),
+        'version' => '30.0.0.0',
         'Version' => '4.0',
       ),
       'type' => 'glass',
@@ -3304,14 +4380,22 @@ return array (
     ),
     3971854116 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe19.1) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE19.1',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3327,14 +4411,22 @@ return array (
     ),
     1997658861 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe18.3) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE18.3',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3350,14 +4442,22 @@ return array (
     ),
     3532676948 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe18.11) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE18.11',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3373,14 +4473,22 @@ return array (
     ),
     1619830335 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe17.31) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE17.31',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3396,14 +4504,22 @@ return array (
     ),
     36241121 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe7.4) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE7.4',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3419,14 +4535,22 @@ return array (
     ),
     216963883 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; 848687) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => '848687)',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3442,14 +4566,22 @@ return array (
     ),
     21123044 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; eng.aristidis.20131017.144119) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'eng.aristidis',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3465,14 +4597,22 @@ return array (
     ),
     123661017 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe10.4) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE10.4',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3488,14 +4628,22 @@ return array (
     ),
     3680025283 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; 873703) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => '873703',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3511,14 +4659,22 @@ return array (
     ),
     3775554771 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe9.3) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE9.3',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3534,14 +4690,22 @@ return array (
     ),
     105219464 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe9.2) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE9.2',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3557,14 +4721,22 @@ return array (
     ),
     2072646519 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; 786362) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => '786362',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3580,14 +4752,22 @@ return array (
     ),
     3679736483 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'mozilla/5.0 (linux; u; android 4.0.4; en-us; glass 1 build/imm76l; xe7.3) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => 'XE7.3',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -3603,14 +4783,22 @@ return array (
     ),
     2674867915 => 
     array (
-      'name' => 'Glass',
+      'name' => 
+      array (
+        0 => 'android 4.0.4;applewebkit/534.30;build/imm76l;glass 1 build/imm76l',
+        1 => 'Glass',
+      ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
       'platform' => 
       array (
+        'model' => 
+        array (
+          0 => '',
+          1 => 'XE7',
+        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
-        'model' => 'XE7',
       ),
       'browser' => 
       array (

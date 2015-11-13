@@ -96,5 +96,306 @@
         "version": "4.0"
       }
     ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Nexus 10 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453 Safari/537.36 pss-webkit-request": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.2.1",
+      "build": "JOP40D",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "27.0.1453"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 10 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.4.2",
+      "build": "KOT49H",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "32.0.1700.99"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JWR66V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR66V",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "28.0.1500.94"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 10 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.93 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.4.2",
+      "build": "KOT49H",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "33.0.1750.93"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.2; Nexus 10 Build/JDQ39) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Safari/537.22": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.2.2",
+      "build": "JDQ39",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "25.0.1364.169"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 10 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.136 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.4.2",
+      "build": "KOT49H",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "33.0.1750.136"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.2; Nexus 10 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.2.2",
+      "build": "JDQ39",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "26.0.1410.58"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.4.4; Nexus 10 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.4.4",
+      "build": "KTU84P",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "35.0.1916.141"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 10 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.166 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.4.2",
+      "build": "KOT49H",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "33.0.1750.166"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR66Y",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "30.0.1599.82"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR66Y",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "31.0.1650.59"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.59 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR66Y",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "29.0.1547.59"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.4.4; Nexus 10 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.131 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.4.4",
+      "build": "KTU84P",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "36.0.1985.131"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.4.4; Nexus 10 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.4.4",
+      "build": "KTU84P",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "38.0.2125.102"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.2; Nexus 10 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36": {
+    "brand": "Google",
+    "type": "tablet",
+    "platform": {
+      "name": "Android",
+      "version": "4.2.2",
+      "build": "JDQ39",
+      "model": "Nexus 10"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "28.0.1500.94"
+      }
+    ]
   }
+
 }

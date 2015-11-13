@@ -21,6 +21,9 @@ function loadUserAgentsList($path, array $types) {
         $directoryIterator = new DirectoryIterator($currentPath);
         foreach ($directoryIterator as $fileInfo) {
             $currentFile = $fileInfo->getFilename();
+            if ($fileInfo->getExtension() != "json") {
+                continue;
+            }
             if (0 === strpos($currentFile, ".")) {continue;}
             $list = file_get_contents($currentPath . $currentFile);
             $userAgent = json_decode($list, true);
@@ -50,7 +53,7 @@ function compileLists(array $userAgents, array &$compiled, array &$priorities) {
 
         //merge referenced user agent
         if (isset($meta["ref"]) && !empty($userAgents[$meta["ref"]])) {
-            $compiled["userAgents"][$compiledUserAgent] = array_merge($compiled["userAgents"][$compiledUserAgent], $userAgents[$meta["ref"]]);
+            $compiled["userAgents"][$compiledUserAgent] = array_merge_recursive($compiled["userAgents"][$compiledUserAgent], $userAgents[$meta["ref"]]);
         }
 
         if (!isset($meta["meta"]["priority"])) {
