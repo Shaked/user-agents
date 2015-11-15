@@ -18,3 +18,6 @@ Feel free to help and contribute!
 ### Open Discussion
 
 - Understand if `app` user agent type is related to `mobile`, `tablet`, `watch`, `tv` etc...
+
+- How to handle mobile `mods` such as `CyanogenMod/10.1.3`
+- Add language key\val
