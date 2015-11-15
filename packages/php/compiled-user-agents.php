@@ -1305,6 +1305,2132 @@ return array (
         ),
       ),
     ),
+    2022231736 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/28.0.1500.64 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '28.0.1500.64',
+        ),
+      ),
+    ),
+    1680482638 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.170 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.170',
+        ),
+      ),
+    ),
+    3409542943 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/35.0.1916.141 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '35.0.1916.141',
+        ),
+      ),
+    ),
+    270369392 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66v) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '29.0.1547.59',
+        ),
+      ),
+    ),
+    2312469634 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/35.0.1916.122 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '35.0.1916.122',
+        ),
+      ),
+    ),
+    981106759 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 5.0; nexus 10 build/lrx21p) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '5.0',
+        'build' => 'LRX21P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '39.0.2171.59',
+        ),
+      ),
+    ),
+    2884077357 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.4; nexus 10 build/ktu84p) applewebkit/537.36 (khtml, like gecko) chrome/36.0.1985.128 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '36.0.1985.128',
+        ),
+      ),
+    ),
+    4139499329 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.22 (khtml, like gecko) chrome/25.0.1364.123 safari/537.22',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '25.0.1364.123',
+        ),
+      ),
+    ),
+    1297301533 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.3; en-us; nexus 10 build/jwr66v) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '534.30',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    1184519402 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.2; en-gb; nexus 10 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '534.30',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    403357776 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.4; nexus 10 build/ktu84p) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '39.0.2171.59',
+        ),
+      ),
+    ),
+    2624969277 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/32.0.1700.99 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '32.0.1700.99',
+        ),
+      ),
+    ),
+    2995706210 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66v) applewebkit/537.36 (khtml, like gecko) chrome/27.0.1453.111 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '27.0.1453.111',
+        ),
+      ),
+    ),
+    1763895016 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.1; nexus 10 build/jop40d) applewebkit/537.4 (khtml, like gecko) chrome/22.0.1229 safari/537.4 pss-webkit-request',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.1',
+        'build' => 'JOP40D',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '22.0.1229',
+        ),
+      ),
+    ),
+    3626462862 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.4; nexus 10 build/ktu84p) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.93 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '39.0.2171.93',
+        ),
+      ),
+    ),
+    3553495717 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2; nexus 10 build/jop40c) applewebkit/535.19 (khtml, like gecko) chrome/18.0.1025.166 safari/535.19',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2',
+        'build' => 'JOP40C',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '18.0.1025.166',
+        ),
+      ),
+    ),
+    1391488280 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/31.0.1650.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '31.0.1650.59',
+        ),
+      ),
+    ),
+    3194926672 => 
+    array (
+      'name' => 'dalvik/1.6.0 (linux; u; android 4.4.3; nexus 10 build/ktu84l)',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.3',
+        'build' => 'KTU84L',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+    ),
+    1229521389 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66v) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.72 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '29.0.1547.72',
+        ),
+      ),
+    ),
+    412998744 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.132 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.132',
+        ),
+      ),
+    ),
+    2675769807 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/36.0.1985.131 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '36.0.1985.131',
+        ),
+      ),
+    ),
+    1504806551 => 
+    array (
+      'name' => 'dalvik/1.6.0 (linux; u; android 4.3; nexus 10 build/jwr66y)',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+    ),
+    1114534054 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66v) applewebkit/537.36 (khtml, like gecko) chrome/31.0.1650.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '31.0.1650.59',
+        ),
+      ),
+    ),
+    2917229188 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.3; en-gb; nexus 10 build/jwr66v) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    1953750073 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 5.1.1; nexus 10 build/lmy47v) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.93 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '5.1.1',
+        'build' => 'LMY47V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '43.0.2357.93',
+        ),
+      ),
+    ),
+    229421389 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/37.0.2062.117 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '37.0.2062.117',
+        ),
+      ),
+    ),
+    346965911 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4; nexus 10 build/krt16s) applewebkit/537.36 (khtml, like gecko) chrome/32.0.1700.99 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4',
+        'build' => 'KRT16S',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '32.0.1700.99',
+        ),
+      ),
+    ),
+    315239799 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/34.0.1847.114 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '34.0.1847.114',
+        ),
+      ),
+    ),
+    2964514932 => 
+    array (
+      'name' => 'dalvik/2.1.0 (linux; u; android 5.0; nexus 10 build/lrx21p)',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '5.0',
+        'build' => 'LRX21P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+    ),
+    813541864 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.4; nexus 10 build/ktu84p) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.109 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '40.0.2214.109',
+        ),
+      ),
+    ),
+    1851793211 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 5.0.1; nexus 10 build/lrx22c) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.109 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '5.0.1',
+        'build' => 'LRX22C',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '40.0.2214.109',
+        ),
+      ),
+    ),
+    2208092994 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.135 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.135',
+        ),
+      ),
+    ),
+    3504738595 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.4.2; en-us; nexus 10 build/kot49h) applewebkit/537.16 (khtml, like gecko) version/4.0 safari/537.16',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    3707611636 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.109 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '40.0.2214.109',
+        ),
+      ),
+    ),
+    1343659350 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/27.0.1453.49 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '27.0.1453.49',
+        ),
+      ),
+    ),
+    2478571219 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4; nexus 10 build/krt16s) applewebkit/537.36 (khtml, like gecko) chrome/30.0.1599.105 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4',
+        'build' => 'KRT16S',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '30.0.1599.105',
+        ),
+      ),
+    ),
+    4056272320 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/28.0.1500.94 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '28.0.1500.94',
+        ),
+      ),
+    ),
+    2254699904 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.136 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.136',
+        ),
+      ),
+    ),
+    3539415980 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.4.2; en-us; nexus 10 build/kot49h) applewebkit/537.16 (khtml, like gecko) version/4.0 mobile safari/537.16',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    841793852 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.4.4; en-us; nexus 10 build/ktu84p) applewebkit/537.16 (khtml, like gecko) version/4.0 safari/537.16',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    693162206 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66v) applewebkit/537.36 (khtml, like gecko) chrome/30.0.1599.92 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '30.0.1599.92',
+        ),
+      ),
+    ),
+    8626126 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '29.0.1547.59',
+        ),
+      ),
+    ),
+    2699649726 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.3; nexus 10 build/ktu84l) applewebkit/537.36 (khtml, like gecko) chrome/36.0.1985.131 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.3',
+        'build' => 'KTU84L',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '36.0.1985.131',
+        ),
+      ),
+    ),
+    969854304 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/30.0.1599.92 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '30.0.1599.92',
+        ),
+      ),
+    ),
+    714409949 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.3; nexus 10 build/ktu84l) applewebkit/537.36 (khtml, like gecko) chrome/36.0.1985.135 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.3',
+        'build' => 'KTU84L',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '36.0.1985.135',
+        ),
+      ),
+    ),
+    1438843088 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 5.0.1; nexus 10 build/lrx22c) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.89 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '5.0.1',
+        'build' => 'LRX22C',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '40.0.2214.89',
+        ),
+      ),
+    ),
+    2133259124 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.3; nexus 10 build/ktu84l) applewebkit/537.36 (khtml, like gecko) chrome/35.0.1916.138 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.3',
+        'build' => 'KTU84L',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '35.0.1916.138',
+        ),
+      ),
+    ),
+    2300822955 => 
+    array (
+      'name' => 'dalvik/1.6.0 (linux; u; android 4.4; nexus 10 build/krt16s)',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4',
+        'build' => 'KRT16S',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+    ),
+    1507269715 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.72 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '29.0.1547.72',
+        ),
+      ),
+    ),
+    4231667862 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.166 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.166',
+        ),
+      ),
+    ),
+    810824634 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.4.2; en-gb; nexus 10 build/kot49h) applewebkit/537.16 (khtml, like gecko) version/4.0 safari/537.16',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    2258643777 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/38.0.2125.102 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '38.0.2125.102',
+        ),
+      ),
+    ),
+    578306659 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.3; de-de; nexus 10 build/jwr66y) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    3189205777 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.2; de-de; nexus 10 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    2125368828 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.2; ru-ru; nexus 10 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    447805673 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.3; nexus 10 build/ktu84l) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.93 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.3',
+        'build' => 'KTU84L',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '39.0.2171.93',
+        ),
+      ),
+    ),
+    3033915402 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 5.0; nexus 10 build/lrx21p) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/37.0.0.0 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '5.0',
+        'build' => 'LRX21P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '37.0.0.0',
+        ),
+      ),
+    ),
+    2337055681 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66v) applewebkit/537.36 (khtml, like gecko) chrome/32.0.1700.99 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '32.0.1700.99',
+        ),
+      ),
+    ),
+    4186139955 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 5.1.1; nexus 10 build/lmy47v) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.133 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '5.1.1',
+        'build' => 'LMY47V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '44.0.2403.133',
+        ),
+      ),
+    ),
+    3334395011 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.4.4; it-it; nexus 10 build/ktu84p) applewebkit/537.16 (khtml, like gecko) version/4.0 safari/537.16',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    515275352 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.136 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.136',
+        ),
+      ),
+    ),
+    2300533340 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 5.1.1; nexus 10 build/lmy47v) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.128 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '5.1.1',
+        'build' => 'LMY47V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '44.0.2403.128',
+        ),
+      ),
+    ),
+    2451730426 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/38.0.2125.102 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '38.0.2125.102',
+        ),
+      ),
+    ),
+    2348762484 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/36.0.1985.131 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '36.0.1985.131',
+        ),
+      ),
+    ),
+    2544751406 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.1; en-us; nexus 10 build/jop40f) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.1',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    3363827023 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.109 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '40.0.2214.109',
+        ),
+      ),
+    ),
+    3100483667 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.93 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '39.0.2171.93',
+        ),
+      ),
+    ),
+    2535364601 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66y) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.135 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.135',
+        ),
+      ),
+    ),
+    3101043302 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.2; fr-fr; nexus 10 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '534.30',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    1971251049 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.89 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '40.0.2214.89',
+        ),
+      ),
+    ),
+    4227398289 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '39.0.2171.59',
+        ),
+      ),
+    ),
+    1198439548 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/35.0.1916.141 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '35.0.1916.141',
+        ),
+      ),
+    ),
+    1015621802 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.2; nexus 10 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.126 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.2',
+        'build' => 'KOT49H',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '33.0.1750.126',
+        ),
+      ),
+    ),
+    2614279807 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/32.0.1700.99 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '32.0.1700.99',
+        ),
+      ),
+    ),
+    2268610895 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.3; nexus 10 build/jwr66v) applewebkit/537.36 (khtml, like gecko) chrome/30.0.1599.82 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '30.0.1599.82',
+        ),
+      ),
+    ),
+    2544262385 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.2.2; nexus 10 build/jdq39) applewebkit/537.36 (khtml, like gecko) chrome/30.0.1599.82 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '30.0.1599.82',
+        ),
+      ),
+    ),
+    1935744173 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.3; en-us; nexus 10 build/jss15j) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JSS15J',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '534.30',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    2525814184 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.4; nexus 10 build/ktu84p) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.89 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.4',
+        'build' => 'KTU84P',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '40.0.2214.89',
+        ),
+      ),
+    ),
+    2272707631 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.3; de-de; nexus 10 build/jwr66v) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66V',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    2813697656 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.2; en-us; nexus 10 build/jdq39e) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30 cyanogenmod/10.1/manta',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39E',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '534.30',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    3235517748 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.2.2; es-es; nexus 10 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.2.2',
+        'build' => 'JDQ39',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
+    3667744311 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; android 4.4.3; nexus 10 build/ktu84l) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.59 safari/537.36',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.4.3',
+        'build' => 'KTU84L',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '39.0.2171.59',
+        ),
+      ),
+    ),
+    4228080960 => 
+    array (
+      'name' => 'mozilla/5.0 (linux; u; android 4.3; ru-ru; nexus 10 build/jwr66y) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30',
+      'brand' => 'Google',
+      'type' => 'tablet',
+      'platform' => 
+      array (
+        'name' => 'Android',
+        'version' => '4.3',
+        'build' => 'JWR66Y',
+        'model' => 'Nexus 10',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Android Webkit',
+          'version' => '4.0',
+        ),
+      ),
+    ),
     2059741632 => 
     array (
       'name' => 'mozilla/5.0 (windows nt 10.0) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 safari/537.36 edge/12.10240',
