@@ -1,7 +1,7 @@
 <?php
 define("HASH_FUNC", "crc32b");
 $pathUserAgents = __DIR__ . "/user-agent";
-$types = ["desktop", "tablet", "bot", "apps", "glass"];
+$types = ["desktop", "tablet", "bot", "apps", "glass", "mobile"];
 //TODO: define structures per type
 $pathBuild = __DIR__ . "/packages";
 $buildTypes = ["php", "json", "go"];
