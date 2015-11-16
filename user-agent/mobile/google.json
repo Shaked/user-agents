@@ -798,5 +798,274 @@
   },
   "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03O) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
     "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; Android 4.1.1; Galaxy Nexus Build/JRO03U) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.1.1",
+      "build": "JRO03U",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "535.19"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "18.0.1025.166"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; es-us; Galaxy Nexus Build/JRO03U) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; Android 4.1.1; Galaxy Nexus Build/JRO03U) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19",
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229 Mobile Safari/537.4 pss-webkit-request": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.0.4",
+      "build": "IMM76B",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.4"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "22.0.1229"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/535.7 (KHTML, like Gecko) CrMo/16.0.912.77 Mobile Safari/535.7": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.0.2",
+      "build": "ICL53F",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "535.7"
+    },
+    "browsers": [
+      {
+        "name": "CrMo",
+        "version": "16.0.912.77"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U, Android 4.0.4, en-us; Galaxy Nexus Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.0.4",
+      "build": "IMM76I",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.30"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR66Y",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "31.0.1650.59"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.1.2; Galaxy Nexus Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.1.2",
+      "build": "JZO54K",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "535.19"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "18.0.1025.166"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR66Y",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "35.0.1916.141"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR66Y",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "32.0.1700.99"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR67B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR67B",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "31.0.1650.59"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.0.3; pt-br; Galaxy Nexus Build/M7511) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.0.3",
+      "build": "M7511",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.30"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.3",
+      "build": "JWR66V",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "28.0.1500.94"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; Galaxy Nexus Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.1.2",
+      "build": "JZO54K",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.30"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; Samsung Galaxy Nexus Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.0.3",
+      "build": "IML74K",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.30"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
   }
 }
