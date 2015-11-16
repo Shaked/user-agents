@@ -724,5 +724,79 @@
         "version": "36.0.1985.135"
       }
     ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.1.1",
+      "build": "JRO03C",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.30"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; es-us; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; zh-tw; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; id-id; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; Android 4.1.1; Galaxy X Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+    "platform": {
+      "model": "Galaxy X"
+    }
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; tr-tr; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; Android 4.1.1; Galaxy X Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobile Safari/537.36": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+    "platform": {
+      "model": "Galaxy X"
+    }
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; el-gr; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; Android 4.1.1; Galaxy X Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+    "platform": {
+      "model": "Galaxy X"
+    }
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; th-th; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; Android 4.1.1; Galaxy Nexus Build/JRO03O) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "18.0.1025.166"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; es-us; Galaxy Nexus Build/JRO03O) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; ko-kr; Galaxy Nexus Build/JRO03O) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03O) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
   }
 }
