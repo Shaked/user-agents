@@ -8007,6 +8007,451 @@ return array (
           'version' => '534.30',
         ),
       ),
+      2068559966 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/28.0.1500.94 mobile safari/537.36',
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '537.22',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '25.0.1364.123',
+          ),
+        ),
+      ),
+      3544528812 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/31.0.1650.59 mobile safari/537.36',
+        'ref' => 'Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36',
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'version' => '31.0.1650.59',
+          ),
+          1 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '25.0.1364.123',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '537.22',
+        ),
+      ),
+      3934490820 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/27.0.1453.90 mobile safari/537.36',
+        'ref' => 'Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36',
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'version' => '27.0.1453.90',
+          ),
+          1 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '25.0.1364.123',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '537.22',
+        ),
+      ),
+      1147948999 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.22 (khtml, like gecko) chrome/25.0.1364.169 mobile safari/537.22',
+        'ref' => 'Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36',
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'version' => '25.0.1364.169',
+          ),
+          1 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '25.0.1364.123',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '537.22',
+        ),
+      ),
+      2090542143 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/30.0.1599.82 mobile safari/537.36',
+        'ref' => 'Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36',
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'version' => '30.0.1599.82',
+          ),
+          1 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '25.0.1364.123',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '537.22',
+        ),
+      ),
+      2625299703 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.59 mobile safari/537.36',
+        'ref' => 'Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36',
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'version' => '29.0.1547.59',
+          ),
+          1 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '25.0.1364.123',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '537.22',
+        ),
+      ),
+      2537769255 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.31 (khtml, like gecko) chrome/26.0.1410.58 mobile safari/537.31',
+        'ref' => 'Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36',
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'version' => '26.0.1410.58',
+          ),
+          1 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '25.0.1364.123',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '537.22',
+        ),
+      ),
+      3116037806 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/32.0.1700.99 mobile safari/537.36',
+        'ref' => 'Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36',
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'version' => '32.0.1700.99',
+          ),
+          1 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '25.0.1364.123',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.2',
+          'build' => 'JDQ39',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '537.22',
+        ),
+      ),
+      1583677290 => 
+      array (
+        'name' => 'mozilla / 5.0 (linux, u; android 4.2.1, zh-cn; galaxy nexus membangun / jop40d) applewebkit / 534,30 (khtml, like gecko) versi / 4.0 mobile safari / 534,30',
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.1',
+          'build' => 'JOP40D',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Android Webkit',
+            'version' => '4.0',
+          ),
+        ),
+      ),
+      2445481389 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; u; android 4.2.1; th-th; galaxy nexus build/jop40d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        'ref' => 'Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30',
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.1',
+          'build' => 'JOP40D',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Android Webkit',
+            'version' => '4.0',
+          ),
+        ),
+      ),
+      223044566 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/28.0.1500.64 mobile safari/537.36',
+        'ref' => 'Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30',
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '28.0.1500.64',
+          ),
+          1 => 
+          array (
+            'name' => 'Android Webkit',
+            'version' => '4.0',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.1',
+          'build' => 'JOP40D',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+      ),
+      2664289272 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; u; android 4.2.1; pt-br; galaxy nexus build/jop40d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        'ref' => 'Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30',
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.1',
+          'build' => 'JOP40D',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Android Webkit',
+            'version' => '4.0',
+          ),
+        ),
+      ),
+      2406412652 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; u; android 4.2.1; en-us; galaxy nexus build/jop40d; cyanogenmod-10.1) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        'ref' => 'Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30',
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.1',
+          'build' => 'JOP40D',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Android Webkit',
+            'version' => '4.0',
+          ),
+        ),
+      ),
+      224751676 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; u; android 4.2.1; pt-pt; galaxy nexus build/jop40d) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30',
+        'ref' => 'Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30',
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.1',
+          'build' => 'JOP40D',
+          'model' => 'Galaxy Nexus',
+        ),
+        'engine' => 
+        array (
+          'name' => 'AppleWebKit',
+          'version' => '534.30',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Android Webkit',
+            'version' => '4.0',
+          ),
+        ),
+      ),
+      3670612823 => 
+      array (
+        'name' => 'mozilla/5.0 (linux; android 4.2.1; galaxy nexus build/jop40d) applewebkit/537.36 (khtml, like gecko) chrome/36.0.1985.135 mobile safari/537.36',
+        'ref' => 'Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30',
+        'engine' => 
+        array (
+          'version' => 
+          array (
+            0 => '537.36',
+            1 => '534.30',
+          ),
+          'name' => 'AppleWebKit',
+        ),
+        'browsers' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chrome',
+            'version' => '36.0.1985.135',
+          ),
+          1 => 
+          array (
+            'name' => 'Android Webkit',
+            'version' => '4.0',
+          ),
+        ),
+        'brand' => 'Google',
+        'type' => 'mobile',
+        'platform' => 
+        array (
+          'name' => 'Android',
+          'version' => '4.2.1',
+          'build' => 'JOP40D',
+          'model' => 'Galaxy Nexus',
+        ),
+      ),
     ),
   ),
 );

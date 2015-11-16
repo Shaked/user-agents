@@ -595,5 +595,134 @@
       "name": "AppleWebKit",
       "version": "534.30"
     }
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.2.2",
+      "build": "JDQ39",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "537.22"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "25.0.1364.123"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36": {
+    "ref": "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "browsers": [
+      {
+        "version": "31.0.1650.59"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Mobile Safari/537.36": {
+    "ref": "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "browsers": [
+      {
+        "version": "27.0.1453.90"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Mobile Safari/537.22": {
+    "ref": "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "browsers": [
+      {
+        "version": "25.0.1364.169"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36": {
+    "ref": "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "browsers": [
+      {
+        "version": "30.0.1599.82"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.59 Mobile Safari/537.36": {
+    "ref": "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "browsers": [
+      {
+        "version": "29.0.1547.59"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31": {
+    "ref": "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "browsers": [
+      {
+        "version": "26.0.1410.58"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36": {
+    "ref": "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "browsers": [
+      {
+        "version": "32.0.1700.99"
+      }
+    ]
+  },
+  "Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30": {
+    "brand": "Google",
+    "type": "mobile",
+    "platform": {
+      "name": "Android",
+      "version": "4.2.1",
+      "build": "JOP40D",
+      "model": "Galaxy Nexus"
+    },
+    "engine": {
+      "name": "AppleWebKit",
+      "version": "534.30"
+    },
+    "browsers": [
+      {
+        "name": "Android Webkit",
+        "version": "4.0"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.2.1; th-th; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30"
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.64 Mobile Safari/537.36": {
+    "ref": "Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30",
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "28.0.1500.64"
+      }
+    ]
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.2.1; pt-br; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30"
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.2.1; en-us; Galaxy Nexus Build/JOP40D; CyanogenMod-10.1) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30"
+  },
+  "Mozilla/5.0 (Linux; U; Android 4.2.1; pt-pt; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30": {
+    "ref": "Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30"
+  },
+  "Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36": {
+    "ref": "Mozilla / 5.0 (Linux, U; Android 4.2.1, zh-cn; Galaxy Nexus MEMBANGUN / JOP40D) AppleWebKit / 534,30 (KHTML, like Gecko) Versi / 4.0 Mobile Safari / 534,30",
+    "engine": {
+      "version": "537.36"
+    },
+    "browsers": [
+      {
+        "name": "Chrome",
+        "version": "36.0.1985.135"
+      }
+    ]
   }
 }
