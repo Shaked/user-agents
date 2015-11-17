@@ -5,7 +5,6 @@
     "platform": {
       "name": "Windows Phone",
       "version": "7.5",
-      "build": "",
       "model": "Allegro"
     },
     "engine": {

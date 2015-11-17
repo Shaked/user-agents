@@ -6264,13 +6264,9 @@ return array (
           0 => 'XRR88',
           1 => 'IMM76L',
         ),
-        'model' => 
-        array (
-          0 => '',
-          1 => 'XE7',
-        ),
         'name' => 'Android',
         'version' => '4.0.4',
+        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -6299,13 +6295,9 @@ return array (
           0 => 'XRS92',
           1 => 'IMM76L',
         ),
-        'model' => 
-        array (
-          0 => '',
-          1 => 'XE7',
-        ),
         'name' => 'Android',
         'version' => '4.0.4',
+        'model' => 'XE7',
       ),
       'type' => 'glass',
       'engine' => 
@@ -6471,12 +6463,8 @@ return array (
           0 => 'XRV49',
           1 => 'IMM76L',
         ),
-        'model' => 
-        array (
-          0 => '',
-          1 => 'XE7',
-        ),
         'name' => 'Android',
+        'model' => 'XE7',
       ),
       'browser' => 
       array (
@@ -6515,12 +6503,8 @@ return array (
           0 => 'XRV39',
           1 => 'IMM76L',
         ),
-        'model' => 
-        array (
-          0 => '',
-          1 => 'XE7',
-        ),
         'name' => 'Android',
+        'model' => 'XE7',
       ),
       'browser' => 
       array (
@@ -6950,27 +6934,23 @@ return array (
         1 => 'Glass',
       ),
       'ref' => 'Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Glass 1 Build/IMM76L; XE7) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+      'type' => 'glass',
       'platform' => 
       array (
-        'model' => 
-        array (
-          0 => '',
-          1 => 'XE7',
-        ),
         'name' => 'Android',
         'version' => '4.0.4',
         'build' => 'IMM76L',
+        'model' => 'XE7',
+      ),
+      'engine' => 
+      array (
+        'name' => 'AppleWebKit',
+        'version' => '534.30',
       ),
       'browser' => 
       array (
         'name' => 'Android Webkit',
         'Version' => '4.0',
-      ),
-      'type' => 'glass',
-      'engine' => 
-      array (
-        'name' => 'AppleWebKit',
-        'version' => '534.30',
       ),
     ),
     3224750877 => 
@@ -6982,7 +6962,6 @@ return array (
       array (
         'name' => 'Windows Phone',
         'version' => '7.5',
-        'build' => '',
         'model' => 'Allegro',
       ),
       'engine' => 
