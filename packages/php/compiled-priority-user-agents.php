@@ -98,7 +98,7 @@ return array (
         array (
           'name' => 'Gecko',
         ),
-        'browsers' => 
+        'browser' => 
         array (
           'name' => 'SeaMonkey',
           'version' => '1.1.15',
@@ -114,7 +114,7 @@ return array (
           'name' => 'AmigaOS',
           'version' => '3.9',
         ),
-        'browsers' => 
+        'browser' => 
         array (
           'name' => 'IBrowse',
           'version' => '2.4',
@@ -130,7 +130,7 @@ return array (
           'name' => 'AmigaOS',
           'version' => '4.0',
         ),
-        'browsers' => 
+        'browser' => 
         array (
           'name' => 'IBrowse',
           'version' => '3.0',

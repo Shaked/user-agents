@@ -41,7 +41,7 @@
     "engine": {
       "name": "Gecko"
     },
-    "browsers": {
+    "browser": {
       "name": "SeaMonkey",
       "version": "1.1.15"
     }
@@ -53,7 +53,7 @@
       "name": "AmigaOS",
       "version": "3.9"
     },
-    "browsers": {
+    "browser": {
       "name": "IBrowse",
       "version": "2.4"
     }
@@ -65,7 +65,7 @@
       "name": "AmigaOS",
       "version": "4.0"
     },
-    "browsers": {
+    "browser": {
       "name": "IBrowse",
       "version": "3.0"
     }
