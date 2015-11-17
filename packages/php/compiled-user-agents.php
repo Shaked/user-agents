@@ -155,6 +155,41 @@ return array (
         ),
       ),
     ),
+    2362472932 => 
+    array (
+      'name' => 'mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/537.36 (khtml, like gecko) chrome/47.0.2526.49 safari/537.36',
+      'ref' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.64 Safari/537.36',
+      'browser' => 
+      array (
+        'name' => 'Chrome',
+        'version' => '47.0.2526.49',
+      ),
+      'brand' => 'Apple',
+      'type' => 'desktop',
+      'platform' => 
+      array (
+        'name' => 'Macintosh',
+        'version' => '10.10.5',
+      ),
+      'engine' => 
+      array (
+        'name' => 'Webkit',
+        'version' => '537.36',
+      ),
+      'browsers' => 
+      array (
+        0 => 
+        array (
+          'name' => 'Chrome',
+          'version' => '46.0.2490.64',
+        ),
+        1 => 
+        array (
+          'name' => 'Safari',
+          'version' => '537.36',
+        ),
+      ),
+    ),
     4095222493 => 
     array (
       'name' => 'mozilla/5.0 archlinux (x11; u; linux x86_64; en-us) applewebkit/534.30 (khtml, like gecko) chrome/12.0.742.100 safari/534.30',
