@@ -13,7 +13,6 @@
     "name": "Gmail Image Proxy",
     "type": "bot",
     "usage": "crawler",
-    "url": "",
     "owner": {
       "name": "Google Inc.",
       "url": "http://www.google.com"

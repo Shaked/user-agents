@@ -5,8 +5,7 @@
     "usage": "crawler",
     "url": "http://www.bloglovin.com",
     "owner": {
-      "name": "Feed Fetcher",
-      "url": ""
+      "name": "Feed Fetcher"
     }
   }
 }

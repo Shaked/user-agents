@@ -3,7 +3,6 @@
     "name": "Ask Jeeves",
     "type": "bot",
     "usage": "search",
-    "url": "",
     "owner": {
       "name": "Ask Jeeves Inc.",
       "url": "http://www.ask.com"

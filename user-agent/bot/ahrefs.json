@@ -1,6 +1,6 @@
 {
   "Mozilla/5.0 (compatible; AhrefsBot/3.1; +http://ahrefs.com/robot/)": {
-    "name": "aHrefs",
+    "brand": "aHrefs",
     "type": "bot",
     "usage": "aHrefs",
     "url": "http://ahrefs.com/robot",

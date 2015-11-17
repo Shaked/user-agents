@@ -1,12 +1,12 @@
 {
   "iTunes/9.1.1": {
-    "name": "iTunes",
+    "brand": "iTunes",
     "type": "app",
     "version": "9.1.1",
     "url": "http://www.apple.com/itunes/"
   },
   "iTunes/11.0.2 (Windows; Microsoft Windows 8 x64 Business Edition (Build 9200)) AppleWebKit/536.27.1": {
-    "name": "iTunes",
+    "brand": "iTunes",
     "type": "app",
     "version": "11.0.2",
     "platform": {
@@ -14,13 +14,13 @@
       "version": "8 x64 Business Edition"
     },
     "engine": {
-      "name": "AppleWebKit",
+      "brand": "AppleWebKit",
       "version": "536.27.1"
     },
     "url": "http://www.apple.com/itunes/"
   },
   "CheckMyBus iOS mobile App 0.9.0 (iPhone; iPhone OS/7.1.1)": {
-    "name": "iTunes",
+    "brand": "iTunes",
     "type": "app",
     "version": "0.9.0",
     "platform": {

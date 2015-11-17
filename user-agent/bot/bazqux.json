@@ -3,10 +3,6 @@
     "name": "BazQux Reader",
     "type": "bot",
     "usage": "search",
-    "url": "https://bazqux.com/fetcher",
-    "owner": {
-      "name": "",
-      "url": ""
-    }
+    "url": "https://bazqux.com/fetcher"
   }
 }

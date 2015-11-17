@@ -1,6 +1,6 @@
 {
   "Aboundex/0.3 (http://www.aboundex.com/crawler/)": {
-    "name": "Aboundexbot",
+    "brand": "Aboundexbot",
     "type": "bot",
     "usage": "search",
     "url": "http://www.aboundex.com/crawler/",

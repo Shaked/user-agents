@@ -1,12 +1,11 @@
 {
   "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider": {
-    "name": "360Spider",
+    "brand": "360Spider",
     "type": "bot",
     "usage": "search",
     "url": "http://www.so.com/help/help_3_2.html",
     "owner": {
-      "name": "Online Media Group, Inc.",
-      "url": ""
+      "name": "Online Media Group, Inc."
     }
   },
   "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1; 360Spider": {

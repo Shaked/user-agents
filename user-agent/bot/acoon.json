@@ -1,6 +1,6 @@
 {
   "Mozilla/5.0 (compatible; AcoonBot/4.11.1; +http://www.acoon.de/robot.asp)": {
-    "name": "Acoon",
+    "brand": "Acoon",
     "type": "bot",
     "usage": "search",
     "url": "http://www.acoon.de/robot.asp",
