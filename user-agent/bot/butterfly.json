@@ -1,0 +1,15 @@
+{
+  "Mozilla/5.0 (Macintosh; Butterfly/1.0; +http://labs.topsy.com/butterfly/) Gecko/2009032608 Firefox/3.0.8": {
+    "brand": "Butterfly",
+    "type": "bot",
+    "usage": "search",
+    "url": "http://labs.topsy.com/butterfly",
+    "owner": {
+      "name": "Topsy Labs",
+      "url": "http://labs.topsy.com"
+    }
+  },
+  "Mozilla/5.0 (compatible; Butterfly/1.0; +http://labs.topsy.com/butterfly/) Gecko/2009032608 Firefox/3.0.8": {
+    "ref": "Mozilla/5.0 (Macintosh; Butterfly/1.0; +http://labs.topsy.com/butterfly/) Gecko/2009032608 Firefox/3.0.8"
+  }
+}

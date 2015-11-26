@@ -1,0 +1,48 @@
+{
+  "Your Nutch Spider/Nutch-2.2.1": {
+    "brand": "Nutch-based Bot",
+    "type": "bot",
+    "usage": "crawler",
+    "url": "https://nutch.apache.org",
+    "owner": {
+      "name": "The Apache Software Foundation",
+      "url": "http://www.apache.org/foundation/"
+    }
+  },
+  "Nutch12/Nutch-1.2": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "spider/Nutch-1.5.1 (spider; http://www.xxx.com)": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "MySpider/Nutch-2.2": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "My Nutch Spider/Nutch-1.6": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "NutchSpider/Nutch-1.4": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "testnutch/Nutch-1.8": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "Spider/Nutch-2.3-SNAPSHOT (Webcrawler)": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "your sipder name/Nutch-1.7": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "5acd734a-1ed3-4a17-ad9d-0b09ae7bc2d2/Nutch-1.7": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "Mozilla/5.0 (compatible; summers;)/Nutch-1.7": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.8) Firefox/3.6.8/Nutch-1.7": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  },
+  "CB/Nutch-1.7": {
+    "ref": "Your Nutch Spider/Nutch-2.2.1"
+  }
+}
